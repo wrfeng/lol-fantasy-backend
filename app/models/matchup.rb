@@ -2,7 +2,7 @@ class Matchup < ApplicationRecord
   belongs_to :user
   belongs_to :opponent, class_name: :User
 
-    after_create :create_inverse, unless: :has_inverse?
+  after_create :create_inverse, unless: :has_inverse?
   after_destroy :destroy_inverse, if: :has_inverse?
 
   def create_inverse

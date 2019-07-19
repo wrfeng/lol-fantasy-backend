@@ -1,4 +1,4 @@
 class MatchupSerializer
   include FastJsonapi::ObjectSerializer
-  attributes 
+  attributes :user_id, :opponent_id
 end
