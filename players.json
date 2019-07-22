@@ -1,0 +1,909 @@
+{
+ "players": [
+  {
+   "ign": "Caps",
+   "team": "Fnatic",
+   "position": "Mid"
+  },
+  {
+   "ign": "Cabochard",
+   "team": "Team Vitality",
+   "position": "Top"
+  },
+  {
+   "ign": "Attila",
+   "team": "Team Vitality",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Broxah",
+   "team": "Fnatic",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Cody Sun",
+   "team": "100 Thieves",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Perkz",
+   "team": "G2 Esports",
+   "position": "Mid"
+  },
+  {
+   "ign": "Sencux",
+   "team": "Misfits Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "Hans Sama",
+   "team": "Misfits Gaming",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Bwipo",
+   "team": "Fnatic",
+   "position": "Top"
+  },
+  {
+   "ign": "Jiizuke",
+   "team": "Team Vitality",
+   "position": "Mid"
+  },
+  {
+   "ign": "Ryu",
+   "team": "100 Thieves",
+   "position": "Mid"
+  },
+  {
+   "ign": "Ssumday",
+   "team": "100 Thieves",
+   "position": "Top"
+  },
+  {
+   "ign": "Doublelift",
+   "team": "Team Liquid",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Maxlore",
+   "team": "Misfits Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "WildTurtle",
+   "team": "FlyQuest",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Upset",
+   "team": "FC Schalke 04",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Kobbe",
+   "team": "Splyce",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Nisqy",
+   "team": "Splyce",
+   "position": "Mid"
+  },
+  {
+   "ign": "Bjergsen",
+   "team": "TSM",
+   "position": "Mid"
+  },
+  {
+   "ign": "Hjarnan",
+   "team": "G2 Esports",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Licorice",
+   "team": "Cloud9",
+   "position": "Top"
+  },
+  {
+   "ign": "HeaQ",
+   "team": "ROCCAT",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Jactroll",
+   "team": "Team Vitality",
+   "position": "Support"
+  },
+  {
+   "ign": "Zven",
+   "team": "TSM",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Jankos",
+   "team": "G2 Esports",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Huni",
+   "team": "Echo Fox",
+   "position": "Top"
+  },
+  {
+   "ign": "Blanc",
+   "team": "ROCCAT",
+   "position": "Mid"
+  },
+  {
+   "ign": "Stixxay",
+   "team": "Counter Logic Gaming",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Huhi",
+   "team": "Counter Logic Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "Alphari",
+   "team": "Misfits Gaming",
+   "position": "Top"
+  },
+  {
+   "ign": "PowerOfEvil",
+   "team": "OpTic Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "Memento",
+   "team": "ROCCAT",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Pobelter",
+   "team": "Team Liquid",
+   "position": "Mid"
+  },
+  {
+   "ign": "Jensen",
+   "team": "Cloud9",
+   "position": "Mid"
+  },
+  {
+   "ign": "Santorin",
+   "team": "FlyQuest",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Nukeduck",
+   "team": "FC Schalke 04",
+   "position": "Mid"
+  },
+  {
+   "ign": "Dardoch",
+   "team": "Echo Fox",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Deftly",
+   "team": "Golden Guardians",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Impact",
+   "team": "Team Liquid",
+   "position": "Top"
+  },
+  {
+   "ign": "Hylissang",
+   "team": "Fnatic",
+   "position": "Support"
+  },
+  {
+   "ign": "Keane",
+   "team": "FlyQuest",
+   "position": "Mid"
+  },
+  {
+   "ign": "Mickey",
+   "team": "Golden Guardians",
+   "position": "Mid"
+  },
+  {
+   "ign": "Profit",
+   "team": "ROCCAT",
+   "position": "Top"
+  },
+  {
+   "ign": "Mikyx",
+   "team": "Misfits Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "Xerxe",
+   "team": "Splyce",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Febiven",
+   "team": "Clutch Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "Wunder",
+   "team": "G2 Esports",
+   "position": "Top"
+  },
+  {
+   "ign": "Steeelback",
+   "team": "Giants",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Hauntzer",
+   "team": "TSM",
+   "position": "Top"
+  },
+  {
+   "ign": "Odoamne",
+   "team": "Splyce",
+   "position": "Top"
+  },
+  {
+   "ign": "Apollo",
+   "team": "Clutch Gaming",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Aphromoo",
+   "team": "100 Thieves",
+   "position": "Support"
+  },
+  {
+   "ign": "Flame",
+   "team": "FlyQuest",
+   "position": "Top"
+  },
+  {
+   "ign": "Contractz",
+   "team": "Golden Guardians",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Solo",
+   "team": "Clutch Gaming",
+   "position": "Top"
+  },
+  {
+   "ign": "Amazing",
+   "team": "FC Schalke 04",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Exileh",
+   "team": "Unicorns of Love",
+   "position": "Mid"
+  },
+  {
+   "ign": "Arrow",
+   "team": "OpTic Gaming",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Xmithie",
+   "team": "Team Liquid",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Betsy",
+   "team": "Giants",
+   "position": "Mid"
+  },
+  {
+   "ign": "Grig",
+   "team": "TSM",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Vizicsacsi",
+   "team": "FC Schalke 04",
+   "position": "Top"
+  },
+  {
+   "ign": "Wadid",
+   "team": "G2 Esports",
+   "position": "Support"
+  },
+  {
+   "ign": "Kold",
+   "team": "Unicorns of Love",
+   "position": "Jungler"
+  },
+  {
+   "ign": "sOAZ",
+   "team": "Fnatic",
+   "position": "Top"
+  },
+  {
+   "ign": "Olleh",
+   "team": "Team Liquid",
+   "position": "Support"
+  },
+  {
+   "ign": "Sneaky",
+   "team": "Cloud9",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Reignover",
+   "team": "Counter Logic Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Lourlo",
+   "team": "Golden Guardians",
+   "position": "Top"
+  },
+  {
+   "ign": "Biofrost",
+   "team": "Counter Logic Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "Zeyzal",
+   "team": "Cloud9",
+   "position": "Support"
+  },
+  {
+   "ign": "Vander",
+   "team": "FC Schalke 04",
+   "position": "Support"
+  },
+  {
+   "ign": "Lira",
+   "team": "Clutch Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Matt",
+   "team": "Golden Guardians",
+   "position": "Support"
+  },
+  {
+   "ign": "Djoko",
+   "team": "Giants",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Norskeren",
+   "team": "ROCCAT",
+   "position": "Support"
+  },
+  {
+   "ign": "Darshan",
+   "team": "Counter Logic Gaming",
+   "position": "Top"
+  },
+  {
+   "ign": "kaSing",
+   "team": "Splyce",
+   "position": "Support"
+  },
+  {
+   "ign": "Kikis",
+   "team": "Team Vitality",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Ruin",
+   "team": "Giants",
+   "position": "Top"
+  },
+  {
+   "ign": "WhiteKnight",
+   "team": "Unicorns of Love",
+   "position": "Top"
+  },
+  {
+   "ign": "Mithy",
+   "team": "TSM",
+   "position": "Support"
+  },
+  {
+   "ign": "AnDa",
+   "team": "100 Thieves",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Akaadian",
+   "team": "OpTic Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Blaber",
+   "team": "Cloud9",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Hakuho",
+   "team": "Clutch Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "JayJ",
+   "team": "FlyQuest",
+   "position": "Support"
+  },
+  {
+   "ign": "Damonte",
+   "team": "Echo Fox",
+   "position": "Mid"
+  },
+  {
+   "ign": "Altec",
+   "team": "Echo Fox",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Dhokla",
+   "team": "OpTic Gaming",
+   "position": "Top"
+  },
+  {
+   "ign": "Sheriff",
+   "team": "H2K",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Totoro",
+   "team": "Unicorns of Love",
+   "position": "Support"
+  },
+  {
+   "ign": "Smittyj",
+   "team": "H2K",
+   "position": "Top"
+  },
+  {
+   "ign": "Big",
+   "team": "OpTic Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "SirNukesAlot",
+   "team": "Giants",
+   "position": "Support"
+  },
+  {
+   "ign": "Lost",
+   "team": "Echo Fox",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Smoothie",
+   "team": "Echo Fox",
+   "position": "Support"
+  },
+  {
+   "ign": "Gilius",
+   "team": "Team Vitality",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Selfie",
+   "team": "H2K",
+   "position": "Mid"
+  },
+  {
+   "ign": "Svenskeren",
+   "team": "Cloud9",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Samux",
+   "team": "Unicorns of Love",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Fenix",
+   "team": "Echo Fox",
+   "position": "Mid"
+  },
+  {
+   "ign": "Promisq",
+   "team": "H2K",
+   "position": "Support"
+  },
+  {
+   "ign": "Goldenglue",
+   "team": "Cloud9",
+   "position": "Mid"
+  },
+  {
+   "ign": "Shook",
+   "team": "H2K",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Neon",
+   "team": "Unicorns of Love",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Feng",
+   "team": "Cloud9",
+   "position": "Support"
+  },
+  {
+   "ign": "Caedrel",
+   "team": "H2K",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Rekkles",
+   "team": "Fnatic",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Meteos",
+   "team": "FlyQuest",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Allorim",
+   "team": "OpTic Gaming",
+   "position": "Top"
+  },
+  {
+   "ign": "Wiggily",
+   "team": "Counter Logic Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Keith",
+   "team": "Cloud9",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Adrian",
+   "team": "Echo Fox",
+   "position": "Support"
+  },
+  {
+   "ign": "Kwon",
+   "team": "FlyQuest",
+   "position": "Support"
+  },
+  {
+   "ign": "Piglet",
+   "team": "Clutch Gaming",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Moon",
+   "team": "Clutch Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "bobqin",
+   "team": "Golden Guardians",
+   "position": "Mid"
+  },
+  {
+   "ign": "Vulcan",
+   "team": "Clutch Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "Fallenbandit",
+   "team": "Counter Logic Gaming",
+   "position": "Top"
+  },
+  {
+   "ign": "Jesiz",
+   "team": "Misfits Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "Gate",
+   "team": "OpTic Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "Ablazeolive",
+   "team": "TSM",
+   "position": "Mid"
+  },
+  {
+   "ign": "AudreyLaSapa",
+   "team": "Unicorns of Love",
+   "position": "Support"
+  },
+  {
+   "ign": "Auto",
+   "team": "Counter Logic Gaming",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Benji",
+   "team": "Golden Guardians",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Boris",
+   "team": "FC Schalke 04",
+   "position": "Support"
+  },
+  {
+   "ign": "Brandini",
+   "team": "100 Thieves",
+   "position": "Top"
+  },
+  {
+   "ign": "Cake",
+   "team": "Echo Fox",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Candyfloss",
+   "team": "H2K",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Dargren",
+   "team": "H2K",
+   "position": "Mid"
+  },
+  {
+   "ign": "Deadly",
+   "team": "Giants",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Eclipse",
+   "team": "OpTic Gaming",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "EdinPriqtel",
+   "team": "ROCCAT",
+   "position": "Support"
+  },
+  {
+   "ign": "Erry",
+   "team": "FlyQuest",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Expect",
+   "team": "Fnatic",
+   "position": "Top"
+  },
+  {
+   "ign": "Fanatiik",
+   "team": "OpTic Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Fill",
+   "team": "Counter Logic Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "H1iva",
+   "team": "Misfits Gaming",
+   "position": "Support"
+  },
+  {
+   "ign": "Hard",
+   "team": "Team Liquid",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Insanity",
+   "team": "Team Liquid",
+   "position": "Mid"
+  },
+  {
+   "ign": "Joey",
+   "team": "Team Liquid",
+   "position": "Support"
+  },
+  {
+   "ign": "Kashtelan",
+   "team": "Giants",
+   "position": "Mid"
+  },
+  {
+   "ign": "Kronos",
+   "team": "Splyce",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Larssen",
+   "team": "H2K",
+   "position": "Mid"
+  },
+  {
+   "ign": "Levi",
+   "team": "100 Thieves",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Linsanity",
+   "team": "100 Thieves",
+   "position": "Mid"
+  },
+  {
+   "ign": "Mabrey",
+   "team": "Echo Fox",
+   "position": "Support"
+  },
+  {
+   "ign": "Maxtrobo",
+   "team": "Clutch Gaming",
+   "position": "Top"
+  },
+  {
+   "ign": "MikeYeung",
+   "team": "TSM",
+   "position": "Jungler"
+  },
+  {
+   "ign": "MrRalleZ",
+   "team": "TSM",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Ngo",
+   "team": "FlyQuest",
+   "position": "Top"
+  },
+  {
+   "ign": "NintendudeX",
+   "team": "Echo Fox",
+   "position": "Top"
+  },
+  {
+   "ign": "Nji",
+   "team": "Team Vitality",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Obsess",
+   "team": "Misfits Gaming",
+   "position": "Jungler"
+  },
+  {
+   "ign": "OddOrange",
+   "team": "Echo Fox",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Palafox",
+   "team": "OpTic Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "PekinWoof",
+   "team": "FlyQuest",
+   "position": "Mid"
+  },
+  {
+   "ign": "PieCakeLord",
+   "team": "TSM",
+   "position": "Top"
+  },
+  {
+   "ign": "Potluck",
+   "team": "Golden Guardians",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Pride",
+   "team": "FC Schalke 04",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Razork",
+   "team": "Giants",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Rikara",
+   "team": "100 Thieves",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Sacre",
+   "team": "G2 Esports",
+   "position": "Top"
+  },
+  {
+   "ign": "Shady",
+   "team": "TSM",
+   "position": "Support"
+  },
+  {
+   "ign": "Sheep",
+   "team": "Golden Guardians",
+   "position": "Support"
+  },
+  {
+   "ign": "Shemek",
+   "team": "Team Vitality",
+   "position": "Top"
+  },
+  {
+   "ign": "Shiro",
+   "team": "Cloud9",
+   "position": "Top"
+  },
+  {
+   "ign": "Shoryu",
+   "team": "Team Liquid",
+   "position": "AD Carry"
+  },
+  {
+   "ign": "Special",
+   "team": "Misfits Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "Spica",
+   "team": "Echo Fox",
+   "position": "Jungler"
+  },
+  {
+   "ign": "Stratospanda",
+   "team": "H2K",
+   "position": "Top"
+  },
+  {
+   "ign": "Stunt",
+   "team": "100 Thieves",
+   "position": "Support"
+  },
+  {
+   "ign": "Sun",
+   "team": "Clutch Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "Targamas",
+   "team": "Giants",
+   "position": "Support"
+  },
+  {
+   "ign": "Th3Antonio",
+   "team": "Giants",
+   "position": "Top"
+  },
+  {
+   "ign": "Tuesday",
+   "team": "Counter Logic Gaming",
+   "position": "Mid"
+  },
+  {
+   "ign": "V1PER",
+   "team": "Team Liquid",
+   "position": "Top"
+  },
+  {
+   "ign": "Yoppa",
+   "team": "Giants",
+   "position": "Top"
+  },
+  {
+   "ign": "Yusui",
+   "team": "Echo Fox",
+   "position": "Mid"
+  },
+  {
+   "ign": "Zig",
+   "team": "Golden Guardians",
+   "position": "Top"
+  }
+ ]
+}

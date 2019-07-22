@@ -6,6 +6,7 @@ Rails.application.routes.draw do
   resources :matchups, only: [:index, :show]
   resources :drafted_teams, only: [:index, :show]
   resources :leagues, only: [:index, :show]
+  resources :stats, only: [:index, :show]
 
   post "/login", to: "auth#login"
   post "/signup", to: "users#create"
