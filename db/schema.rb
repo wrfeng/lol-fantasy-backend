@@ -22,11 +22,15 @@ ActiveRecord::Schema.define(version: 2019_07_22_152150) do
     t.integer "wins"
     t.integer "losses"
     t.integer "ties"
+    t.index ["league_id"], name: "index_drafted_teams_on_league_id"
+    t.index ["user_id"], name: "index_drafted_teams_on_user_id"
   end
 
   create_table "drafts", force: :cascade do |t|
     t.integer "drafted_team_id"
     t.integer "player_id"
+    t.index ["drafted_team_id"], name: "index_drafts_on_drafted_team_id"
+    t.index ["player_id"], name: "index_drafts_on_player_id"
   end
 
   create_table "leagues", force: :cascade do |t|
@@ -61,6 +65,7 @@ ActiveRecord::Schema.define(version: 2019_07_22_152150) do
     t.string "gold_bonus"
     t.string "week"
     t.integer "player_id"
+    t.index ["player_id"], name: "index_stats_on_player_id"
   end
 
   create_table "users", force: :cascade do |t|

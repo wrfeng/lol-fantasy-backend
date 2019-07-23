@@ -3,5 +3,5 @@ class DraftedTeam < ApplicationRecord
   belongs_to :league
 
   has_many :drafts
-  has_many :players, through: :drafted_teams
+  has_many :players, through: :drafts
 end

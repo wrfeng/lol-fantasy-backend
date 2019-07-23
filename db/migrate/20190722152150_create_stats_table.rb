@@ -15,6 +15,8 @@ class CreateStatsTable < ActiveRecord::Migration[5.2]
       t.string :gold_bonus
       t.string :week
       t.integer :player_id
+
     end
+    add_index :stats, :player_id
   end
 end

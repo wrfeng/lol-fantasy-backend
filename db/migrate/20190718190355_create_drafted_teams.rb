@@ -9,5 +9,7 @@ class CreateDraftedTeams < ActiveRecord::Migration[5.2]
       t.integer :ties
       
     end
+    add_index :drafted_teams, :user_id
+    add_index :drafted_teams, :league_id
   end
 end
