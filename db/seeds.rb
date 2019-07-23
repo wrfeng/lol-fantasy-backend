@@ -915,7 +915,7 @@ players = {
   }
  ]
 }
-players[:players].each {|player| Player.create(ign: player[:ign])}
+players[:players].each {|player| Player.create(ign: player[:ign], team: player[:team], position: player[:position])}
 
 stats = {
  "split_stats": [
