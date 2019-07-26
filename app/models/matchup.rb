@@ -22,6 +22,6 @@ class Matchup < ApplicationRecord
   end
 
   def inverse_match_options
-    { opponent_id: user_id, user_id: opponent_id, week: week}
+    { opponent_id: user_id, user_id: opponent_id}
   end
 end

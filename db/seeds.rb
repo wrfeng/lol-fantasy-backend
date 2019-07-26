@@ -5,7 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
+User.create(username: 'wei', password: '123')
+User.create(username: 'iew', password: '123')
 players = {
  "players": [
   {
@@ -28078,10 +28079,11 @@ stats[:split_stats].each do |stat|
     team: stat[:team],
     position: stat[:position],
     total_points: stat[:total_points],
+    average_points: stat[:average_points],
     games_played: stat[:games_played],
     kills: stat[:kills],
     deaths: stat[:deaths],
-    assists: stat[:assist],
+    assists: stat[:assists],
     creep_score: stat[:creep_score],
     kill_assist_bonus: stat[:kill_assist_bonus],
     gold_bonus: stat[:gold_bonus],

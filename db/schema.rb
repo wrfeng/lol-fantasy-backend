@@ -35,6 +35,7 @@ ActiveRecord::Schema.define(version: 2019_07_22_152150) do
 
   create_table "leagues", force: :cascade do |t|
     t.string "name"
+    t.boolean "drafted", default: false
   end
 
   create_table "matchups", force: :cascade do |t|
