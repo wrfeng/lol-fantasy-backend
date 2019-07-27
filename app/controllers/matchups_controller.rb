@@ -17,6 +17,6 @@ class MatchupsController < ApplicationController
   private
 
   def matchup_params
-    params.permit(:user_id, :opponent_id)
+    params.permit!
   end
 end

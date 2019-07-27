@@ -24,7 +24,7 @@ class LeaguesController < ApplicationController
   end
 
   def update
-    leauge = League.find(params[:id])
+    league = League.find(params[:id])
     league.update(drafted: league_params[:drafted])
   end
 

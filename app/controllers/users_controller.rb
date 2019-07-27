@@ -10,10 +10,10 @@ class UsersController < ApplicationController
   end
   
   def create
-    user = User.create(user_params)
-
+    user = User.create(username: user_params[:username], password: user_params[:password])
+    # debugger
     if user.valid?
-      render json: {token: encode_token(user_payload(user))}
+      render json: {token: encode_token(user_payload(user)), user: user}
     else
       render json: {errors: user.errors.full_messages}
     end
@@ -26,6 +26,6 @@ class UsersController < ApplicationController
   private
 
   def user_params
-    params.permit(:username, :password)
+    params.permit!
   end
 end
