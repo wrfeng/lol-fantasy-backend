@@ -12,911 +12,1080 @@ players = {
   {
    "ign": "Caps",
    "team": "Fnatic",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1132/220px-G2_Caps_2019_Split_2.png"
   },
   {
    "ign": "Cabochard",
    "team": "Team Vitality",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/57/220px-VIT_Cabochard_2019_Split_2.png"
   },
   {
    "ign": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/3501/220px-VIT_Attila_2019_Split_2.png"
   },
   {
    "ign": "Broxah",
    "team": "Fnatic",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/855/220px-FNC_Broxah_2019_Split_2.png"
   },
   {
    "ign": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1392/themassacre8-drykagmb.png"
   },
   {
    "ign": "Perkz",
    "team": "G2 Esports",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/470/220px-G2_Perkz_2019_Split_2.png"
   },
   {
    "ign": "Sencux",
    "team": "Misfits Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/303/sencux-6cgfplp8.png"
   },
   {
    "ign": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/871/220px-MSF_Hans_Sama_2019_Split_2.png"
   },
   {
    "ign": "Bwipo",
    "team": "Fnatic",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1343/220px-FNC_Bwipo_2019_Split_2.png"
   },
   {
    "ign": "Jiizuke",
    "team": "Team Vitality",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1133/220px-VIT_Jiizuke_2019_Split_2.png"
   },
   {
    "ign": "Ryu",
    "team": "100 Thieves",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2157/ryu-g5f1cuag.png"
   },
   {
    "ign": "Ssumday",
    "team": "100 Thieves",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/329/220px-100_Ssumday_2019_Split_2.png"
   },
   {
    "ign": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2145/doublelift-1qon6pt3.png"
   },
   {
    "ign": "Maxlore",
    "team": "Misfits Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/502/220px-MSF_Maxlore_2019_Split_2.png"
   },
   {
    "ign": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/44/220px-FLY_WildTurtle_2019_Split_2.png"
   },
   {
    "ign": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1168/220px-S04_Upset_2019_Split_2.png"
   },
   {
    "ign": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/304/220px-SPY_Kobbe_2019_Split_2.png"
   },
   {
    "ign": "Nisqy",
    "team": "Splyce",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1284/220px-C9_Nisqy_2019_Split_2.png"
   },
   {
    "ign": "Bjergsen",
    "team": "TSM",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/40/220px-TSM_Bjergsen_2019_Split_2.png"
   },
   {
    "ign": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/72/220px-XL_Hjarnan_2019_Split_2.png"
   },
   {
    "ign": "Licorice",
    "team": "Cloud9",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1190/licorice-1340xujh.png"
   },
   {
    "ign": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/299/220px-RGE_HeaQ_2019_Split_1.png"
   },
   {
    "ign": "Jactroll",
    "team": "Team Vitality",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/261/220px-VIT_Jactroll_2019_Split_2.png"
   },
   {
    "ign": "Zven",
    "team": "TSM",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/680/220px-TSM_Zven_2019_Split_2.png"
   },
   {
    "ign": "Jankos",
    "team": "G2 Esports",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2159/220px-S04_Odoamne_2019_Split_2.png"
   },
   {
    "ign": "Huni",
    "team": "Echo Fox",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/79/220px-CG_Huni_2019_Split_1.png"
   },
   {
    "ign": "Blanc",
    "team": "ROCCAT",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/692/blanc-fc59rn6r.png"
   },
   {
    "ign": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/229/220px-CLG_Stixxay_2019_Split_2.png"
   },
   {
    "ign": "Huhi",
    "team": "Counter Logic Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/618/huhi-499h0zsp.png"
   },
   {
    "ign": "Alphari",
    "team": "Misfits Gaming",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1140/220px-OG_Alphari_2019_Split_2.png"
   },
   {
    "ign": "PowerOfEvil",
    "team": "OpTic Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/62/220px-CLG_PowerOfEvil_2019_Split_2.png"
   },
   {
    "ign": "Memento",
    "team": "ROCCAT",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1135/_.png"
   },
   {
    "ign": "Pobelter",
    "team": "Team Liquid",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/16/220px-FLY_Pobelter_2019_Split_2.png"
   },
   {
    "ign": "Jensen",
    "team": "Cloud9",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/13/220px-TL_Jensen_2019_Split_1.png"
   },
   {
    "ign": "Santorin",
    "team": "FlyQuest",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/35/220px-FLY_Santorin_2019_Split_2.png"
   },
   {
    "ign": "Nukeduck",
    "team": "FC Schalke 04",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/92/220px-OG_Nukeduck_2019_Split_2.png"
   },
   {
    "ign": "Dardoch",
    "team": "Echo Fox",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/458/dardoch-hmbit7cj.png"
   },
   {
    "ign": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1167/220px-GGS_Deftly_2019_Split_2.png"
   },
   {
    "ign": "Impact",
    "team": "Team Liquid",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/32/impact-11ve9lok.png"
   },
   {
    "ign": "Hylissang",
    "team": "Fnatic",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/74/220px-FNC_Hylissang_2019_Split_2.png"
   },
   {
    "ign": "Keane",
    "team": "FlyQuest",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/15/keane-4cmxmtsp.png"
   },
   {
    "ign": "Mickey",
    "team": "Golden Guardians",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/309/APK_Mickey_2019_Split_1.jpg"
   },
   {
    "ign": "Profit",
    "team": "ROCCAT",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/8600/220px-RGE_Profit_2019_Split_2.png"
   },
   {
    "ign": "Mikyx",
    "team": "Misfits Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/605/220px-G2_Mikyx_2019_Split_2.png"
   },
   {
    "ign": "Xerxe",
    "team": "Splyce",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1467/220px-SPY_Xerxe_2019_Split_2.png"
   },
   {
    "ign": "Febiven",
    "team": "Clutch Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2160/220px-MSF_Febiven_2019_Split_2.png"
   },
   {
    "ign": "Wunder",
    "team": "G2 Esports",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1172/220px-G2_Wunder_2019_Split_2.png"
   },
   {
    "ign": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/207/220px-VIT_Steeelback_2017_Spring.png"
   },
   {
    "ign": "Hauntzer",
    "team": "TSM",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/3/220px-GGS_Hauntzer_2019_Split_2.png"
   },
   {
    "ign": "Odoamne",
    "team": "Splyce",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2159/220px-S04_Odoamne_2019_Split_2.png"
   },
   {
    "ign": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/45/220px-FOX_Apollo_2019_Split_2.png"
   },
   {
    "ign": "Aphromoo",
    "team": "100 Thieves",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/26/220px-100_aphromoo_2019_Split_2.png"
   },
   {
    "ign": "Flame",
    "team": "FlyQuest",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/376/220px-DWG_Flame_2019_Split_2.png"
   },
   {
    "ign": "Contractz",
    "team": "Golden Guardians",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/862/220px-GGS_Contractz_2019_Split_2.png"
   },
   {
    "ign": "Solo",
    "team": "Clutch Gaming",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/214/220px-FOX_Solo_2019_Split_2.png"
   },
   {
    "ign": "Amazing",
    "team": "FC Schalke 04",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/77/220px-S04_Amazing_2018_Split_2.png"
   },
   {
    "ign": "Exileh",
    "team": "Unicorns of Love",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1074/_.png"
   },
   {
    "ign": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/332/220px-OPT_Arrow_2019_Split_2.png"
   },
   {
    "ign": "Xmithie",
    "team": "Team Liquid",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/11/220px-TL_Xmithie_2019_Split_1.png"
   },
   {
    "ign": "Betsy",
    "team": "Giants",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/65/220px-GIA_Betsy_2018_Spring.png"
   },
   {
    "ign": "Grig",
    "team": "TSM",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/181/220px-TSM_Grig_2019_Split_2.png"
   },
   {
    "ign": "Vizicsacsi",
    "team": "FC Schalke 04",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/56/220px-SPY_Vizicsacsi_2019_Split_2.png"
   },
   {
    "ign": "Wadid",
    "team": "G2 Esports",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1468/220px-FLY_Wadid_2019_Split_2.png"
   },
   {
    "ign": "Kold",
    "team": "Unicorns of Love",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/36/220px-OG_Kold_2019_Split_2.png"
   },
   {
    "ign": "sOAZ",
    "team": "Fnatic",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/71/220px-MSF_sOAZ_2019_Split_2.png"
   },
   {
    "ign": "Olleh",
    "team": "Team Liquid",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/425/220px-GGS_Olleh_2019_Split_2.png"
   },
   {
    "ign": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/18/220px-C9_Sneaky_2019_Split_2.png"
   },
   {
    "ign": "Reignover",
    "team": "Counter Logic Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/84/CLG_Reignover_2018_Split_2.png"
   },
   {
    "ign": "Lourlo",
    "team": "Golden Guardians",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/226/lourlo-81ngd1pl.png"
   },
   {
    "ign": "Biofrost",
    "team": "Counter Logic Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/510/220px-CLG_Biofrost_2019_Split_2.png"
   },
   {
    "ign": "Zeyzal",
    "team": "Cloud9",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1220/zeyzal-djfb5xsn.png"
   },
   {
    "ign": "Vander",
    "team": "FC Schalke 04",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2161/220px-RGE_Vander_2019_Split_2.png"
   },
   {
    "ign": "Lira",
    "team": "Clutch Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/307/220px-CG_Lira_2019_Split_1.png"
   },
   {
    "ign": "Matt",
    "team": "Golden Guardians",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/222/303px-GGS_Matt_2018_Spring.png"
   },
   {
    "ign": "Djoko",
    "team": "Giants",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/840/220px-GIA_Djoko_2018_Spring.png"
   },
   {
    "ign": "Norskeren",
    "team": "ROCCAT",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1166/220px-SPY_Norskeren_2019_Split_2.png"
   },
   {
    "ign": "Darshan",
    "team": "Counter Logic Gaming",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/5/CLG_Darshan_2018_Spring.png"
   },
   {
    "ign": "kaSing",
    "team": "Splyce",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/78/220px-XL_kaSing_2019_Split_2.png"
   },
   {
    "ign": "Kikis",
    "team": "Team Vitality",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/60/kikis-9px5rew4.png"
   },
   {
    "ign": "Ruin",
    "team": "Giants",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1414/220px-CLG_Ruin_2019_Split_2.png"
   },
   {
    "ign": "WhiteKnight",
    "team": "Unicorns of Love",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1570/whiteknight-7reozy7t.png"
   },
   {
    "ign": "Mithy",
    "team": "TSM",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/93/220px-OG_Mithy_2019_Split_2.png"
   },
   {
    "ign": "AnDa",
    "team": "100 Thieves",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/194/chorong-f8dkz60y.png"
   },
   {
    "ign": "Akaadian",
    "team": "OpTic Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/223/220px-TSM_Akaadian_2019_Split_2.png"
   },
   {
    "ign": "Blaber",
    "team": "Cloud9",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/8281/blaberfish2-dwp53w8q.png"
   },
   {
    "ign": "Hakuho",
    "team": "Clutch Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/198/220px-FOX_Hakuho_2019_Split_2.png"
   },
   {
    "ign": "JayJ",
    "team": "FlyQuest",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/8899/jayj-6678tnro.png"
   },
   {
    "ign": "Damonte",
    "team": "Echo Fox",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/857/220px-CG_Damonte_2019_Split_1.png"
   },
   {
    "ign": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/19/altec-4h8r6d9e.png"
   },
   {
    "ign": "Dhokla",
    "team": "OpTic Gaming",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/3468/dhokla-eil1qvb8.png"
   },
   {
    "ign": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/377/220px-OG_Patrik_2019_Split_2.png"
   },
   {
    "ign": "Totoro",
    "team": "Unicorns of Love",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1029/220px-UOL_Totoro_2018_Spring.png"
   },
   {
    "ign": "Smittyj",
    "team": "H2K",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2162/smittyj-hjlxrs3z.png"
   },
   {
    "ign": "Big",
    "team": "OpTic Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/664/220px-OPT_Big_2019_Split_2.png"
   },
   {
    "ign": "SirNukesAlot",
    "team": "Giants",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/856/sirnukesalot-3yrw4oza.png"
   },
   {
    "ign": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1118/220px-FOX_Lost_2019_Split_2.png"
   },
   {
    "ign": "Smoothie",
    "team": "Echo Fox",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/53/220px-TSM_Smoothie_2019_Split_2.png"
   },
   {
    "ign": "Gilius",
    "team": "Team Vitality",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/141/303px-BJK_Gilius_2019_Split_1.png"
   },
   {
    "ign": "Selfie",
    "team": "H2K",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/841/selfie-irr8xcsx.png"
   },
   {
    "ign": "Svenskeren",
    "team": "Cloud9",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2152/svenskeren-63jbeilu.png"
   },
   {
    "ign": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/672/220px-MADL_Samux_2019_Split_2.png"
   },
   {
    "ign": "Fenix",
    "team": "Echo Fox",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/17/220px-FOX_Fenix_2019_Split_2.png"
   },
   {
    "ign": "Promisq",
    "team": "H2K",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/99/220px-G2_promisq_2019_Split_1.png"
   },
   {
    "ign": "Goldenglue",
    "team": "Cloud9",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/221/goldenglue-u8pe0ow.png"
   },
   {
    "ign": "Shook",
    "team": "H2K",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/171/shook-43143fnj.png"
   },
   {
    "ign": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/3515/neon-16o8ewbp.png"
   },
   {
    "ign": "Feng",
    "team": "Cloud9",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/649/feng-ealfuafn.png"
   },
   {
    "ign": "Caedrel",
    "team": "H2K",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/659/220px-XL_Caedrel_2019_Split_2.png"
   },
   {
    "ign": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2146/220px-FNC_Rekkles_2019_Split_2.png"
   },
   {
    "ign": "Meteos",
    "team": "FlyQuest",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2150/meteos-fcy0t9sg.png"
   },
   {
    "ign": "Allorim",
    "team": "OpTic Gaming",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/963/allorim-jd9luob5.png"
   },
   {
    "ign": "Wiggily",
    "team": "Counter Logic Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1564/wiggily-in51yfkn.png"
   },
   {
    "ign": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/2156/keith-gmei2hih.png"
   },
   {
    "ign": "Adrian",
    "team": "Echo Fox",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/49/adrian-bzv67pbp.png"
   },
   {
    "ign": "Kwon",
    "team": "FlyQuest",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/475/konkwon-33wfotlt.png"
   },
   {
    "ign": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/22/piglet-4smmppa.png"
   },
   {
    "ign": "Moon",
    "team": "Clutch Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "https://cdn.pandascore.co/images/player/image/220/moon-e2lw2qwb.png"
   },
   {
    "ign": "bobqin",
    "team": "Golden Guardians",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1189/bobqinxd-ilgjua2u.png"
   },
   {
    "ign": "Vulcan",
    "team": "Clutch Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/3506/vulcan-g2wmkzoj.png"
   },
   {
    "ign": "Fallenbandit",
    "team": "Counter Logic Gaming",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1508/_.png"
   },
   {
    "ign": "Jesiz",
    "team": "Misfits Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/142/jesiz-ev0ylvvt.png"
   },
   {
    "ign": "Gate",
    "team": "OpTic Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "https://cdn.pandascore.co/images/player/image/481/gate-6e1hw2yl.png"
   },
   {
    "ign": "Ablazeolive",
    "team": "TSM",
-   "position": "Mid"
-  },
-  {
-   "ign": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1130/ablazeolive-jltguci5.png"
   },
   {
    "ign": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry"
-  },
-  {
-   "ign": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/9002/auto-h2h9tyl8.png"
   },
   {
    "ign": "Boris",
    "team": "FC Schalke 04",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Brandini",
    "team": "100 Thieves",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1161/brandini-a9yqa1r5.png"
   },
   {
    "ign": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "null"
   },
   {
    "ign": "Candyfloss",
    "team": "H2K",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Dargren",
    "team": "H2K",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "Deadly",
    "team": "Giants",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "null"
   },
   {
    "ign": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "null"
   },
   {
    "ign": "EdinPriqtel",
    "team": "ROCCAT",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "null"
   },
   {
    "ign": "Expect",
    "team": "Fnatic",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Fanatiik",
    "team": "OpTic Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Fill",
    "team": "Counter Logic Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "H1iva",
    "team": "Misfits Gaming",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Hard",
    "team": "Team Liquid",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Insanity",
    "team": "Team Liquid",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "Joey",
    "team": "Team Liquid",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Kashtelan",
    "team": "Giants",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "Kronos",
    "team": "Splyce",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Larssen",
    "team": "H2K",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1429/220px-RGE_Larssen_2019_Split_2.png"
   },
   {
    "ign": "Levi",
    "team": "100 Thieves",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Linsanity",
    "team": "100 Thieves",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "Mabrey",
    "team": "Echo Fox",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Maxtrobo",
    "team": "Clutch Gaming",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "MikeYeung",
    "team": "TSM",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "null"
   },
   {
    "ign": "Ngo",
    "team": "FlyQuest",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "NintendudeX",
    "team": "Echo Fox",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Nji",
    "team": "Team Vitality",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Obsess",
    "team": "Misfits Gaming",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "OddOrange",
    "team": "Echo Fox",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Palafox",
    "team": "OpTic Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "PekinWoof",
    "team": "FlyQuest",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "PieCakeLord",
    "team": "TSM",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Potluck",
    "team": "Golden Guardians",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Pride",
    "team": "FC Schalke 04",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Razork",
    "team": "Giants",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "https://cdn.pandascore.co/images/player/image/1226/rikara-ivlzvfap.png"
   },
   {
    "ign": "Sacre",
    "team": "G2 Esports",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Shady",
    "team": "TSM",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Sheep",
    "team": "Golden Guardians",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Shemek",
    "team": "Team Vitality",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Shiro",
    "team": "Cloud9",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry"
+   "position": "AD Carry",
+   "img_url": "null"
   },
   {
    "ign": "Special",
    "team": "Misfits Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "Spica",
    "team": "Echo Fox",
-   "position": "Jungler"
+   "position": "Jungler",
+   "img_url": "null"
   },
   {
    "ign": "Stratospanda",
    "team": "H2K",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Stunt",
    "team": "100 Thieves",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Sun",
    "team": "Clutch Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "Targamas",
    "team": "Giants",
-   "position": "Support"
+   "position": "Support",
+   "img_url": "null"
   },
   {
    "ign": "Th3Antonio",
    "team": "Giants",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Tuesday",
    "team": "Counter Logic Gaming",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "V1PER",
    "team": "Team Liquid",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Yoppa",
    "team": "Giants",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   },
   {
    "ign": "Yusui",
    "team": "Echo Fox",
-   "position": "Mid"
+   "position": "Mid",
+   "img_url": "null"
   },
   {
    "ign": "Zig",
    "team": "Golden Guardians",
-   "position": "Top"
+   "position": "Top",
+   "img_url": "null"
   }
  ]
 }
-players[:players].each {|player| Player.create(ign: player[:ign], team: player[:team], position: player[:position])}
+players[:players].each {|player| Player.create(ign: player[:ign], team: player[:team], position: player[:position], img_url: player[:img_url])}
 
 stats = {
  "split_stats": [
@@ -932,8 +1101,8 @@ stats = {
    "assists": "92",
    "creep_score": "4,954",
    "kill_assist_bonus": "5",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Cabochard",
@@ -947,8 +1116,8 @@ stats = {
    "assists": "119",
    "creep_score": "4,861",
    "kill_assist_bonus": "5",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Attila",
@@ -962,8 +1131,8 @@ stats = {
    "assists": "102",
    "creep_score": "5,471",
    "kill_assist_bonus": "4",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Broxah",
@@ -977,8 +1146,8 @@ stats = {
    "assists": "139",
    "creep_score": "3,015",
    "kill_assist_bonus": "6",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Cody Sun",
@@ -992,8 +1161,8 @@ stats = {
    "assists": "85",
    "creep_score": "6,964",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Perkz",
@@ -1007,8 +1176,8 @@ stats = {
    "assists": "73",
    "creep_score": "5,851",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 2 / 1",
-   "week": "Split"
+   "multi_kill": "0 / 2 / 1",
+   "week": "Totals"
   },
   {
    "name": "Sencux",
@@ -1022,8 +1191,8 @@ stats = {
    "assists": "104",
    "creep_score": "5,081",
    "kill_assist_bonus": "1",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Hans Sama",
@@ -1037,8 +1206,8 @@ stats = {
    "assists": "102",
    "creep_score": "5,444",
    "kill_assist_bonus": "3",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Bwipo",
@@ -1052,8 +1221,8 @@ stats = {
    "assists": "100",
    "creep_score": "4,037",
    "kill_assist_bonus": "4",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Jiizuke",
@@ -1067,8 +1236,8 @@ stats = {
    "assists": "101",
    "creep_score": "4,745",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Ryu",
@@ -1082,8 +1251,8 @@ stats = {
    "assists": "115",
    "creep_score": "5,316",
    "kill_assist_bonus": "5",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Ssumday",
@@ -1097,8 +1266,8 @@ stats = {
    "assists": "75",
    "creep_score": "6,335",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Doublelift",
@@ -1112,8 +1281,8 @@ stats = {
    "assists": "73",
    "creep_score": "5,900",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Maxlore",
@@ -1127,8 +1296,8 @@ stats = {
    "assists": "111",
    "creep_score": "3,294",
    "kill_assist_bonus": "3",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "WildTurtle",
@@ -1142,8 +1311,8 @@ stats = {
    "assists": "88",
    "creep_score": "5,466",
    "kill_assist_bonus": "3",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Upset",
@@ -1157,8 +1326,8 @@ stats = {
    "assists": "87",
    "creep_score": "6,115",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 1 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 1 / 0",
+   "week": "Totals"
   },
   {
    "name": "Kobbe",
@@ -1172,8 +1341,8 @@ stats = {
    "assists": "73",
    "creep_score": "6,364",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Nisqy",
@@ -1187,8 +1356,8 @@ stats = {
    "assists": "82",
    "creep_score": "5,614",
    "kill_assist_bonus": "1",
-   "gold_bonus": "3 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "3 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Bjergsen",
@@ -1202,8 +1371,8 @@ stats = {
    "assists": "76",
    "creep_score": "6,137",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Hjarnan",
@@ -1217,8 +1386,8 @@ stats = {
    "assists": "93",
    "creep_score": "5,313",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Licorice",
@@ -1232,8 +1401,8 @@ stats = {
    "assists": "89",
    "creep_score": "6,167",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "HeaQ",
@@ -1247,8 +1416,8 @@ stats = {
    "assists": "86",
    "creep_score": "6,011",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Jactroll",
@@ -1262,8 +1431,8 @@ stats = {
    "assists": "158",
    "creep_score": "779",
    "kill_assist_bonus": "8",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Zven",
@@ -1277,8 +1446,8 @@ stats = {
    "assists": "83",
    "creep_score": "6,581",
    "kill_assist_bonus": "1",
-   "gold_bonus": "3 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "3 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Jankos",
@@ -1292,8 +1461,8 @@ stats = {
    "assists": "123",
    "creep_score": "2,443",
    "kill_assist_bonus": "8",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Huni",
@@ -1307,8 +1476,8 @@ stats = {
    "assists": "105",
    "creep_score": "5,675",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Blanc",
@@ -1322,8 +1491,8 @@ stats = {
    "assists": "106",
    "creep_score": "5,588",
    "kill_assist_bonus": "5",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Stixxay",
@@ -1337,8 +1506,8 @@ stats = {
    "assists": "66",
    "creep_score": "6,781",
    "kill_assist_bonus": "1",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Huhi",
@@ -1352,8 +1521,8 @@ stats = {
    "assists": "83",
    "creep_score": "6,266",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Alphari",
@@ -1367,8 +1536,8 @@ stats = {
    "assists": "96",
    "creep_score": "4,920",
    "kill_assist_bonus": "4",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "PowerOfEvil",
@@ -1382,8 +1551,8 @@ stats = {
    "assists": "60",
    "creep_score": "7,480",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Memento",
@@ -1397,8 +1566,8 @@ stats = {
    "assists": "91",
    "creep_score": "3,177",
    "kill_assist_bonus": "2",
-   "gold_bonus": "3 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "3 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Pobelter",
@@ -1412,8 +1581,8 @@ stats = {
    "assists": "95",
    "creep_score": "5,513",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Jensen",
@@ -1427,8 +1596,8 @@ stats = {
    "assists": "81",
    "creep_score": "4,190",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Santorin",
@@ -1442,8 +1611,8 @@ stats = {
    "assists": "115",
    "creep_score": "2,559",
    "kill_assist_bonus": "4",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Nukeduck",
@@ -1457,8 +1626,8 @@ stats = {
    "assists": "61",
    "creep_score": "5,943",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Dardoch",
@@ -1472,8 +1641,8 @@ stats = {
    "assists": "110",
    "creep_score": "3,209",
    "kill_assist_bonus": "4",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Deftly",
@@ -1487,8 +1656,8 @@ stats = {
    "assists": "66",
    "creep_score": "6,243",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Impact",
@@ -1502,8 +1671,8 @@ stats = {
    "assists": "96",
    "creep_score": "5,055",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Hylissang",
@@ -1517,8 +1686,8 @@ stats = {
    "assists": "131",
    "creep_score": "782",
    "kill_assist_bonus": "5",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Keane",
@@ -1532,8 +1701,8 @@ stats = {
    "assists": "82",
    "creep_score": "4,828",
    "kill_assist_bonus": "1",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Mickey",
@@ -1547,8 +1716,8 @@ stats = {
    "assists": "81",
    "creep_score": "5,368",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Profit",
@@ -1562,8 +1731,8 @@ stats = {
    "assists": "89",
    "creep_score": "5,620",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Mikyx",
@@ -1577,8 +1746,8 @@ stats = {
    "assists": "148",
    "creep_score": "681",
    "kill_assist_bonus": "9",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Xerxe",
@@ -1592,8 +1761,8 @@ stats = {
    "assists": "106",
    "creep_score": "3,183",
    "kill_assist_bonus": "4",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Febiven",
@@ -1607,8 +1776,8 @@ stats = {
    "assists": "83",
    "creep_score": "6,369",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Wunder",
@@ -1622,8 +1791,8 @@ stats = {
    "assists": "93",
    "creep_score": "5,158",
    "kill_assist_bonus": "3",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Steeelback",
@@ -1637,8 +1806,8 @@ stats = {
    "assists": "68",
    "creep_score": "6,205",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Hauntzer",
@@ -1652,8 +1821,8 @@ stats = {
    "assists": "78",
    "creep_score": "6,312",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 1 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 1 / 0",
+   "week": "Totals"
   },
   {
    "name": "Odoamne",
@@ -1667,8 +1836,8 @@ stats = {
    "assists": "92",
    "creep_score": "5,615",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Apollo",
@@ -1682,8 +1851,8 @@ stats = {
    "assists": "59",
    "creep_score": "5,894",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Aphromoo",
@@ -1697,8 +1866,8 @@ stats = {
    "assists": "143",
    "creep_score": "846",
    "kill_assist_bonus": "6",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Flame",
@@ -1712,8 +1881,8 @@ stats = {
    "assists": "77",
    "creep_score": "5,170",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Contractz",
@@ -1727,8 +1896,8 @@ stats = {
    "assists": "103",
    "creep_score": "3,157",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Solo",
@@ -1742,8 +1911,8 @@ stats = {
    "assists": "80",
    "creep_score": "6,193",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Amazing",
@@ -1757,8 +1926,8 @@ stats = {
    "assists": "100",
    "creep_score": "2,713",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Exileh",
@@ -1772,8 +1941,8 @@ stats = {
    "assists": "54",
    "creep_score": "5,034",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Arrow",
@@ -1787,8 +1956,8 @@ stats = {
    "assists": "66",
    "creep_score": "6,091",
    "kill_assist_bonus": "1",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Xmithie",
@@ -1802,8 +1971,8 @@ stats = {
    "assists": "97",
    "creep_score": "3,187",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Betsy",
@@ -1817,8 +1986,8 @@ stats = {
    "assists": "69",
    "creep_score": "5,837",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Grig",
@@ -1832,8 +2001,8 @@ stats = {
    "assists": "92",
    "creep_score": "3,153",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Vizicsacsi",
@@ -1847,8 +2016,8 @@ stats = {
    "assists": "84",
    "creep_score": "5,205",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Wadid",
@@ -1862,8 +2031,8 @@ stats = {
    "assists": "127",
    "creep_score": "826",
    "kill_assist_bonus": "6",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Kold",
@@ -1877,8 +2046,8 @@ stats = {
    "assists": "97",
    "creep_score": "2,865",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "sOAZ",
@@ -1892,8 +2061,8 @@ stats = {
    "assists": "93",
    "creep_score": "3,424",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Olleh",
@@ -1907,8 +2076,8 @@ stats = {
    "assists": "128",
    "creep_score": "993",
    "kill_assist_bonus": "5",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Sneaky",
@@ -1922,8 +2091,8 @@ stats = {
    "assists": "70",
    "creep_score": "4,096",
    "kill_assist_bonus": "1",
-   "gold_bonus": "2 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Reignover",
@@ -1937,8 +2106,8 @@ stats = {
    "assists": "98",
    "creep_score": "2,855",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Lourlo",
@@ -1952,8 +2121,8 @@ stats = {
    "assists": "61",
    "creep_score": "5,646",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Biofrost",
@@ -1967,8 +2136,8 @@ stats = {
    "assists": "124",
    "creep_score": "926",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Zeyzal",
@@ -1982,8 +2151,8 @@ stats = {
    "assists": "121",
    "creep_score": "903",
    "kill_assist_bonus": "5",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Vander",
@@ -1997,8 +2166,8 @@ stats = {
    "assists": "119",
    "creep_score": "988",
    "kill_assist_bonus": "5",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Lira",
@@ -2012,8 +2181,8 @@ stats = {
    "assists": "79",
    "creep_score": "3,357",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Matt",
@@ -2027,8 +2196,8 @@ stats = {
    "assists": "115",
    "creep_score": "779",
    "kill_assist_bonus": "5",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Djoko",
@@ -2042,8 +2211,8 @@ stats = {
    "assists": "73",
    "creep_score": "2,929",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Norskeren",
@@ -2057,8 +2226,8 @@ stats = {
    "assists": "113",
    "creep_score": "1,165",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Darshan",
@@ -2072,8 +2241,8 @@ stats = {
    "assists": "66",
    "creep_score": "4,849",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "kaSing",
@@ -2087,8 +2256,8 @@ stats = {
    "assists": "109",
    "creep_score": "927",
    "kill_assist_bonus": "5",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Kikis",
@@ -2102,8 +2271,8 @@ stats = {
    "assists": "80",
    "creep_score": "1,490",
    "kill_assist_bonus": "4",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Ruin",
@@ -2117,8 +2286,8 @@ stats = {
    "assists": "65",
    "creep_score": "5,323",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "WhiteKnight",
@@ -2132,8 +2301,8 @@ stats = {
    "assists": "65",
    "creep_score": "4,632",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Mithy",
@@ -2147,8 +2316,8 @@ stats = {
    "assists": "109",
    "creep_score": "931",
    "kill_assist_bonus": "4",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "AnDa",
@@ -2162,8 +2331,8 @@ stats = {
    "assists": "77",
    "creep_score": "2,124",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Akaadian",
@@ -2177,8 +2346,8 @@ stats = {
    "assists": "73",
    "creep_score": "3,351",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Blaber",
@@ -2192,8 +2361,8 @@ stats = {
    "assists": "67",
    "creep_score": "1,774",
    "kill_assist_bonus": "4",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Hakuho",
@@ -2207,8 +2376,8 @@ stats = {
    "assists": "101",
    "creep_score": "673",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "JayJ",
@@ -2222,8 +2391,8 @@ stats = {
    "assists": "94",
    "creep_score": "884",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Damonte",
@@ -2237,8 +2406,8 @@ stats = {
    "assists": "41",
    "creep_score": "3,929",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Altec",
@@ -2252,8 +2421,8 @@ stats = {
    "assists": "39",
    "creep_score": "3,058",
    "kill_assist_bonus": "1",
-   "gold_bonus": "2 / 0 / 1",
-   "week": "Split"
+   "multi_kill": "2 / 0 / 1",
+   "week": "Totals"
   },
   {
    "name": "Dhokla",
@@ -2267,8 +2436,8 @@ stats = {
    "assists": "48",
    "creep_score": "5,267",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Sheriff",
@@ -2282,8 +2451,8 @@ stats = {
    "assists": "52",
    "creep_score": "4,743",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Totoro",
@@ -2297,8 +2466,8 @@ stats = {
    "assists": "97",
    "creep_score": "893",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Smittyj",
@@ -2312,8 +2481,8 @@ stats = {
    "assists": "49",
    "creep_score": "4,835",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Big",
@@ -2327,8 +2496,8 @@ stats = {
    "assists": "93",
    "creep_score": "839",
    "kill_assist_bonus": "4",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "SirNukesAlot",
@@ -2342,8 +2511,8 @@ stats = {
    "assists": "98",
    "creep_score": "915",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Lost",
@@ -2357,8 +2526,8 @@ stats = {
    "assists": "36",
    "creep_score": "2,558",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "1 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Smoothie",
@@ -2372,8 +2541,8 @@ stats = {
    "assists": "78",
    "creep_score": "353",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Gilius",
@@ -2387,8 +2556,8 @@ stats = {
    "assists": "62",
    "creep_score": "1,507",
    "kill_assist_bonus": "3",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Selfie",
@@ -2402,8 +2571,8 @@ stats = {
    "assists": "28",
    "creep_score": "4,220",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Svenskeren",
@@ -2417,8 +2586,8 @@ stats = {
    "assists": "62",
    "creep_score": "1,785",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Samux",
@@ -2432,8 +2601,8 @@ stats = {
    "assists": "29",
    "creep_score": "2,704",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Fenix",
@@ -2447,8 +2616,8 @@ stats = {
    "assists": "41",
    "creep_score": "1,499",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Promisq",
@@ -2462,8 +2631,8 @@ stats = {
    "assists": "77",
    "creep_score": "742",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Goldenglue",
@@ -2477,8 +2646,8 @@ stats = {
    "assists": "35",
    "creep_score": "2,506",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Shook",
@@ -2492,8 +2661,8 @@ stats = {
    "assists": "35",
    "creep_score": "2,205",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Neon",
@@ -2507,8 +2676,8 @@ stats = {
    "assists": "32",
    "creep_score": "2,489",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Feng",
@@ -2522,8 +2691,8 @@ stats = {
    "assists": "58",
    "creep_score": "353",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Caedrel",
@@ -2537,8 +2706,8 @@ stats = {
    "assists": "38",
    "creep_score": "1,331",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Rekkles",
@@ -2552,8 +2721,8 @@ stats = {
    "assists": "31",
    "creep_score": "1,396",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Meteos",
@@ -2567,8 +2736,8 @@ stats = {
    "assists": "38",
    "creep_score": "794",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Allorim",
@@ -2582,8 +2751,8 @@ stats = {
    "assists": "14",
    "creep_score": "1,164",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Wiggily",
@@ -2597,8 +2766,8 @@ stats = {
    "assists": "10",
    "creep_score": "433",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Keith",
@@ -2612,8 +2781,8 @@ stats = {
    "assists": "12",
    "creep_score": "1,454",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Adrian",
@@ -2627,8 +2796,8 @@ stats = {
    "assists": "18",
    "creep_score": "141",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Kwon",
@@ -2642,8 +2811,8 @@ stats = {
    "assists": "19",
    "creep_score": "160",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Piglet",
@@ -2657,8 +2826,8 @@ stats = {
    "assists": "5",
    "creep_score": "704",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Moon",
@@ -2672,8 +2841,8 @@ stats = {
    "assists": "9",
    "creep_score": "369",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "bobqin",
@@ -2687,8 +2856,8 @@ stats = {
    "assists": "3",
    "creep_score": "650",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Vulcan",
@@ -2702,8 +2871,8 @@ stats = {
    "assists": "10",
    "creep_score": "130",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Fallenbandit",
@@ -2717,8 +2886,8 @@ stats = {
    "assists": "7",
    "creep_score": "313",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Jesiz",
@@ -2732,8 +2901,8 @@ stats = {
    "assists": "7",
    "creep_score": "85",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Gate",
@@ -2747,8 +2916,8 @@ stats = {
    "assists": "4",
    "creep_score": "76",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Ablazeolive",
@@ -2762,23 +2931,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Auto",
@@ -2792,23 +2946,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Boris",
@@ -2822,8 +2961,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Brandini",
@@ -2837,8 +2976,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Cake",
@@ -2852,8 +2991,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Candyfloss",
@@ -2867,8 +3006,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Dargren",
@@ -2882,8 +3021,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Deadly",
@@ -2897,8 +3036,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Eclipse",
@@ -2912,8 +3051,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "EdinPriqtel",
@@ -2927,8 +3066,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Erry",
@@ -2942,8 +3081,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Expect",
@@ -2957,8 +3096,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Fanatiik",
@@ -2972,8 +3111,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Fill",
@@ -2987,8 +3126,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "H1iva",
@@ -3002,8 +3141,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Hard",
@@ -3017,8 +3156,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Insanity",
@@ -3032,8 +3171,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Joey",
@@ -3047,8 +3186,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Kashtelan",
@@ -3062,8 +3201,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Kronos",
@@ -3077,8 +3216,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Larssen",
@@ -3092,8 +3231,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Levi",
@@ -3107,8 +3246,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Linsanity",
@@ -3122,8 +3261,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Mabrey",
@@ -3137,8 +3276,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Maxtrobo",
@@ -3152,8 +3291,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "MikeYeung",
@@ -3167,8 +3306,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "MrRalleZ",
@@ -3182,8 +3321,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Ngo",
@@ -3197,8 +3336,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "NintendudeX",
@@ -3212,8 +3351,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Nji",
@@ -3227,8 +3366,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Obsess",
@@ -3242,8 +3381,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "OddOrange",
@@ -3257,8 +3396,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Palafox",
@@ -3272,8 +3411,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "PekinWoof",
@@ -3287,8 +3426,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "PieCakeLord",
@@ -3302,8 +3441,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Potluck",
@@ -3317,8 +3456,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Pride",
@@ -3332,8 +3471,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Razork",
@@ -3347,8 +3486,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Rikara",
@@ -3362,8 +3501,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Sacre",
@@ -3377,8 +3516,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Shady",
@@ -3392,8 +3531,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Sheep",
@@ -3407,8 +3546,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Shemek",
@@ -3422,8 +3561,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Shiro",
@@ -3437,8 +3576,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Shoryu",
@@ -3452,8 +3591,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Special",
@@ -3467,8 +3606,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Spica",
@@ -3482,8 +3621,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Stratospanda",
@@ -3497,8 +3636,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Stunt",
@@ -3512,8 +3651,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Sun",
@@ -3527,8 +3666,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Targamas",
@@ -3542,8 +3681,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Th3Antonio",
@@ -3557,8 +3696,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Tuesday",
@@ -3572,8 +3711,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "V1PER",
@@ -3587,8 +3726,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Yoppa",
@@ -3602,8 +3741,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Yusui",
@@ -3617,8 +3756,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Zig",
@@ -3632,8 +3771,8 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "Split"
+   "multi_kill": "0 / 0 / 0",
+   "week": "Totals"
   },
   {
    "name": "Hans Sama",
@@ -3647,7 +3786,7 @@ stats = {
    "assists": "18",
    "creep_score": "469",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3662,7 +3801,7 @@ stats = {
    "assists": "23",
    "creep_score": "392",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3677,7 +3816,7 @@ stats = {
    "assists": "26",
    "creep_score": "269",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3692,7 +3831,7 @@ stats = {
    "assists": "12",
    "creep_score": "676",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 1 / 0",
+   "multi_kill": "0 / 1 / 0",
    "week": "W1"
   },
   {
@@ -3707,7 +3846,7 @@ stats = {
    "assists": "17",
    "creep_score": "694",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3722,7 +3861,7 @@ stats = {
    "assists": "9",
    "creep_score": "665",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 1 / 0",
+   "multi_kill": "0 / 1 / 0",
    "week": "W1"
   },
   {
@@ -3737,7 +3876,7 @@ stats = {
    "assists": "25",
    "creep_score": "25",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3752,7 +3891,7 @@ stats = {
    "assists": "22",
    "creep_score": "221",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3767,7 +3906,7 @@ stats = {
    "assists": "17",
    "creep_score": "665",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3782,7 +3921,7 @@ stats = {
    "assists": "17",
    "creep_score": "487",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3797,7 +3936,7 @@ stats = {
    "assists": "21",
    "creep_score": "548",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3812,7 +3951,7 @@ stats = {
    "assists": "15",
    "creep_score": "440",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3827,7 +3966,7 @@ stats = {
    "assists": "13",
    "creep_score": "614",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3842,7 +3981,7 @@ stats = {
    "assists": "10",
    "creep_score": "528",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3857,7 +3996,7 @@ stats = {
    "assists": "17",
    "creep_score": "355",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3872,7 +4011,7 @@ stats = {
    "assists": "13",
    "creep_score": "504",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3887,7 +4026,7 @@ stats = {
    "assists": "13",
    "creep_score": "548",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3902,7 +4041,7 @@ stats = {
    "assists": "16",
    "creep_score": "357",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3917,7 +4056,7 @@ stats = {
    "assists": "10",
    "creep_score": "484",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3932,7 +4071,7 @@ stats = {
    "assists": "15",
    "creep_score": "532",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3947,7 +4086,7 @@ stats = {
    "assists": "16",
    "creep_score": "364",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3962,7 +4101,7 @@ stats = {
    "assists": "11",
    "creep_score": "488",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3977,7 +4116,7 @@ stats = {
    "assists": "13",
    "creep_score": "555",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -3992,7 +4131,7 @@ stats = {
    "assists": "9",
    "creep_score": "815",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4007,7 +4146,7 @@ stats = {
    "assists": "7",
    "creep_score": "533",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4022,7 +4161,7 @@ stats = {
    "assists": "19",
    "creep_score": "39",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4037,7 +4176,7 @@ stats = {
    "assists": "10",
    "creep_score": "530",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4052,7 +4191,7 @@ stats = {
    "assists": "14",
    "creep_score": "479",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4067,7 +4206,7 @@ stats = {
    "assists": "6",
    "creep_score": "601",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4082,7 +4221,7 @@ stats = {
    "assists": "7",
    "creep_score": "662",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4097,7 +4236,7 @@ stats = {
    "assists": "18",
    "creep_score": "141",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4112,7 +4251,7 @@ stats = {
    "assists": "11",
    "creep_score": "756",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4127,7 +4266,7 @@ stats = {
    "assists": "17",
    "creep_score": "21",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4142,7 +4281,7 @@ stats = {
    "assists": "9",
    "creep_score": "443",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4157,7 +4296,7 @@ stats = {
    "assists": "17",
    "creep_score": "335",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4172,7 +4311,7 @@ stats = {
    "assists": "15",
    "creep_score": "381",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4187,7 +4326,7 @@ stats = {
    "assists": "18",
    "creep_score": "58",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4202,7 +4341,7 @@ stats = {
    "assists": "12",
    "creep_score": "506",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4217,7 +4356,7 @@ stats = {
    "assists": "3",
    "creep_score": "599",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4232,7 +4371,7 @@ stats = {
    "assists": "9",
    "creep_score": "401",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4247,7 +4386,7 @@ stats = {
    "assists": "16",
    "creep_score": "88",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4262,7 +4401,7 @@ stats = {
    "assists": "10",
    "creep_score": "467",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4277,7 +4416,7 @@ stats = {
    "assists": "7",
    "creep_score": "243",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4292,7 +4431,7 @@ stats = {
    "assists": "8",
    "creep_score": "742",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4307,7 +4446,7 @@ stats = {
    "assists": "11",
    "creep_score": "82",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4322,7 +4461,7 @@ stats = {
    "assists": "5",
    "creep_score": "827",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4337,7 +4476,7 @@ stats = {
    "assists": "11",
    "creep_score": "409",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4352,7 +4491,7 @@ stats = {
    "assists": "5",
    "creep_score": "650",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4367,7 +4506,7 @@ stats = {
    "assists": "11",
    "creep_score": "510",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4382,7 +4521,7 @@ stats = {
    "assists": "8",
    "creep_score": "456",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4397,7 +4536,7 @@ stats = {
    "assists": "4",
    "creep_score": "632",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4412,7 +4551,7 @@ stats = {
    "assists": "11",
    "creep_score": "399",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4427,7 +4566,7 @@ stats = {
    "assists": "7",
    "creep_score": "688",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4442,7 +4581,7 @@ stats = {
    "assists": "9",
    "creep_score": "381",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4457,7 +4596,7 @@ stats = {
    "assists": "14",
    "creep_score": "117",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4472,7 +4611,7 @@ stats = {
    "assists": "8",
    "creep_score": "348",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4487,7 +4626,7 @@ stats = {
    "assists": "6",
    "creep_score": "640",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4502,7 +4641,7 @@ stats = {
    "assists": "10",
    "creep_score": "577",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4517,7 +4656,7 @@ stats = {
    "assists": "11",
    "creep_score": "410",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4532,7 +4671,7 @@ stats = {
    "assists": "7",
    "creep_score": "356",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4547,7 +4686,7 @@ stats = {
    "assists": "7",
    "creep_score": "288",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4562,7 +4701,7 @@ stats = {
    "assists": "10",
    "creep_score": "280",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4577,7 +4716,7 @@ stats = {
    "assists": "1",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4592,7 +4731,7 @@ stats = {
    "assists": "6",
    "creep_score": "496",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4607,7 +4746,7 @@ stats = {
    "assists": "10",
    "creep_score": "55",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4622,7 +4761,7 @@ stats = {
    "assists": "5",
    "creep_score": "412",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4637,7 +4776,7 @@ stats = {
    "assists": "8",
    "creep_score": "537",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4652,7 +4791,7 @@ stats = {
    "assists": "5",
    "creep_score": "673",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4667,7 +4806,7 @@ stats = {
    "assists": "11",
    "creep_score": "213",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4682,7 +4821,7 @@ stats = {
    "assists": "10",
    "creep_score": "155",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4697,7 +4836,7 @@ stats = {
    "assists": "13",
    "creep_score": "106",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4712,7 +4851,7 @@ stats = {
    "assists": "8",
    "creep_score": "643",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4727,7 +4866,7 @@ stats = {
    "assists": "2",
    "creep_score": "524",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4742,7 +4881,7 @@ stats = {
    "assists": "10",
    "creep_score": "118",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4757,7 +4896,7 @@ stats = {
    "assists": "11",
    "creep_score": "61",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4772,7 +4911,7 @@ stats = {
    "assists": "4",
    "creep_score": "607",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4787,7 +4926,7 @@ stats = {
    "assists": "4",
    "creep_score": "525",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4802,7 +4941,7 @@ stats = {
    "assists": "5",
    "creep_score": "373",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4817,7 +4956,7 @@ stats = {
    "assists": "5",
    "creep_score": "269",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4832,7 +4971,7 @@ stats = {
    "assists": "4",
    "creep_score": "449",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4847,7 +4986,7 @@ stats = {
    "assists": "4",
    "creep_score": "574",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4862,7 +5001,7 @@ stats = {
    "assists": "2",
    "creep_score": "570",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4877,7 +5016,7 @@ stats = {
    "assists": "8",
    "creep_score": "61",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4892,7 +5031,7 @@ stats = {
    "assists": "6",
    "creep_score": "561",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4907,7 +5046,7 @@ stats = {
    "assists": "5",
    "creep_score": "426",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4922,7 +5061,7 @@ stats = {
    "assists": "8",
    "creep_score": "73",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4937,7 +5076,7 @@ stats = {
    "assists": "6",
    "creep_score": "519",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4952,7 +5091,7 @@ stats = {
    "assists": "4",
    "creep_score": "465",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4967,7 +5106,7 @@ stats = {
    "assists": "9",
    "creep_score": "106",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4982,7 +5121,7 @@ stats = {
    "assists": "7",
    "creep_score": "328",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -4997,7 +5136,7 @@ stats = {
    "assists": "7",
    "creep_score": "345",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5012,7 +5151,7 @@ stats = {
    "assists": "8",
    "creep_score": "82",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5027,7 +5166,7 @@ stats = {
    "assists": "2",
    "creep_score": "536",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5042,7 +5181,7 @@ stats = {
    "assists": "7",
    "creep_score": "28",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5057,7 +5196,7 @@ stats = {
    "assists": "2",
    "creep_score": "519",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5072,7 +5211,7 @@ stats = {
    "assists": "7",
    "creep_score": "68",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5087,7 +5226,7 @@ stats = {
    "assists": "3",
    "creep_score": "300",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5102,7 +5241,7 @@ stats = {
    "assists": "4",
    "creep_score": "192",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5117,7 +5256,7 @@ stats = {
    "assists": "1",
    "creep_score": "202",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5132,7 +5271,7 @@ stats = {
    "assists": "3",
    "creep_score": "37",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5147,7 +5286,7 @@ stats = {
    "assists": "4",
    "creep_score": "118",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5162,7 +5301,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5177,7 +5316,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5192,22 +5331,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W1"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5222,22 +5346,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W1"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5252,7 +5361,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5267,7 +5376,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5282,7 +5391,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5297,7 +5406,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5312,7 +5421,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5327,7 +5436,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5342,7 +5451,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5357,7 +5466,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5372,7 +5481,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5387,7 +5496,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5402,7 +5511,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5417,7 +5526,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5432,7 +5541,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5447,7 +5556,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5462,7 +5571,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5477,7 +5586,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5492,7 +5601,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5507,7 +5616,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5522,7 +5631,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5537,7 +5646,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5552,7 +5661,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5567,7 +5676,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5582,7 +5691,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5597,7 +5706,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5612,7 +5721,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5627,7 +5736,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5642,7 +5751,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5657,7 +5766,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5672,7 +5781,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5687,7 +5796,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5702,7 +5811,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5717,7 +5826,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5732,7 +5841,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5747,7 +5856,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5762,7 +5871,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5777,7 +5886,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5792,7 +5901,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5807,7 +5916,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5822,7 +5931,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5837,7 +5946,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5852,7 +5961,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5867,7 +5976,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5882,7 +5991,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5897,7 +6006,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5912,7 +6021,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5927,7 +6036,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5942,7 +6051,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5957,7 +6066,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5972,7 +6081,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -5987,7 +6096,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6002,7 +6111,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6017,7 +6126,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6032,7 +6141,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6047,7 +6156,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6062,7 +6171,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6077,7 +6186,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6092,7 +6201,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6107,7 +6216,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6122,7 +6231,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6137,7 +6246,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6152,7 +6261,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6167,7 +6276,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6182,7 +6291,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6197,7 +6306,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6212,7 +6321,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6227,7 +6336,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6242,7 +6351,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6257,7 +6366,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6272,7 +6381,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6287,7 +6396,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6302,7 +6411,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6317,7 +6426,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6332,7 +6441,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6347,7 +6456,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W1"
   },
   {
@@ -6362,7 +6471,7 @@ stats = {
    "assists": "8",
    "creep_score": "650",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 1 / 1",
+   "multi_kill": "0 / 1 / 1",
    "week": "W2"
   },
   {
@@ -6377,7 +6486,7 @@ stats = {
    "assists": "23",
    "creep_score": "445",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6392,7 +6501,7 @@ stats = {
    "assists": "16",
    "creep_score": "675",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6407,7 +6516,7 @@ stats = {
    "assists": "23",
    "creep_score": "564",
    "kill_assist_bonus": "2",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6422,7 +6531,7 @@ stats = {
    "assists": "9",
    "creep_score": "907",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6437,7 +6546,7 @@ stats = {
    "assists": "19",
    "creep_score": "476",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6452,7 +6561,7 @@ stats = {
    "assists": "16",
    "creep_score": "682",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6467,7 +6576,7 @@ stats = {
    "assists": "19",
    "creep_score": "99",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6482,7 +6591,7 @@ stats = {
    "assists": "23",
    "creep_score": "428",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6497,7 +6606,7 @@ stats = {
    "assists": "20",
    "creep_score": "356",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6512,7 +6621,7 @@ stats = {
    "assists": "28",
    "creep_score": "146",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6527,7 +6636,7 @@ stats = {
    "assists": "23",
    "creep_score": "485",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6542,7 +6651,7 @@ stats = {
    "assists": "11",
    "creep_score": "621",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6557,7 +6666,7 @@ stats = {
    "assists": "17",
    "creep_score": "745",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6572,7 +6681,7 @@ stats = {
    "assists": "19",
    "creep_score": "443",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6587,7 +6696,7 @@ stats = {
    "assists": "18",
    "creep_score": "749",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6602,7 +6711,7 @@ stats = {
    "assists": "13",
    "creep_score": "595",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6617,7 +6726,7 @@ stats = {
    "assists": "14",
    "creep_score": "430",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6632,7 +6741,7 @@ stats = {
    "assists": "17",
    "creep_score": "459",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6647,7 +6756,7 @@ stats = {
    "assists": "15",
    "creep_score": "695",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6662,7 +6771,7 @@ stats = {
    "assists": "18",
    "creep_score": "753",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6677,7 +6786,7 @@ stats = {
    "assists": "15",
    "creep_score": "564",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6692,7 +6801,7 @@ stats = {
    "assists": "13",
    "creep_score": "812",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6707,7 +6816,7 @@ stats = {
    "assists": "24",
    "creep_score": "103",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6722,7 +6831,7 @@ stats = {
    "assists": "14",
    "creep_score": "629",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6737,7 +6846,7 @@ stats = {
    "assists": "21",
    "creep_score": "426",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6752,7 +6861,7 @@ stats = {
    "assists": "17",
    "creep_score": "313",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6767,7 +6876,7 @@ stats = {
    "assists": "11",
    "creep_score": "668",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6782,7 +6891,7 @@ stats = {
    "assists": "25",
    "creep_score": "53",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6797,7 +6906,7 @@ stats = {
    "assists": "10",
    "creep_score": "816",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6812,7 +6921,7 @@ stats = {
    "assists": "17",
    "creep_score": "320",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6827,7 +6936,7 @@ stats = {
    "assists": "18",
    "creep_score": "405",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6842,7 +6951,7 @@ stats = {
    "assists": "20",
    "creep_score": "337",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6857,7 +6966,7 @@ stats = {
    "assists": "13",
    "creep_score": "573",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6872,7 +6981,7 @@ stats = {
    "assists": "10",
    "creep_score": "822",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6887,7 +6996,7 @@ stats = {
    "assists": "22",
    "creep_score": "121",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6902,7 +7011,7 @@ stats = {
    "assists": "22",
    "creep_score": "91",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6917,7 +7026,7 @@ stats = {
    "assists": "14",
    "creep_score": "735",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6932,7 +7041,7 @@ stats = {
    "assists": "12",
    "creep_score": "776",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6947,7 +7056,7 @@ stats = {
    "assists": "7",
    "creep_score": "912",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6962,7 +7071,7 @@ stats = {
    "assists": "18",
    "creep_score": "130",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6977,7 +7086,7 @@ stats = {
    "assists": "6",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -6992,7 +7101,7 @@ stats = {
    "assists": "13",
    "creep_score": "649",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7007,7 +7116,7 @@ stats = {
    "assists": "18",
    "creep_score": "76",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7022,7 +7131,7 @@ stats = {
    "assists": "11",
    "creep_score": "617",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7037,7 +7146,7 @@ stats = {
    "assists": "6",
    "creep_score": "734",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7052,7 +7161,7 @@ stats = {
    "assists": "12",
    "creep_score": "551",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7067,7 +7176,7 @@ stats = {
    "assists": "9",
    "creep_score": "295",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7082,7 +7191,7 @@ stats = {
    "assists": "11",
    "creep_score": "704",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7097,7 +7206,7 @@ stats = {
    "assists": "14",
    "creep_score": "112",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7112,7 +7221,7 @@ stats = {
    "assists": "15",
    "creep_score": "156",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7127,7 +7236,7 @@ stats = {
    "assists": "6",
    "creep_score": "485",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7142,7 +7251,7 @@ stats = {
    "assists": "10",
    "creep_score": "521",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7157,7 +7266,7 @@ stats = {
    "assists": "16",
    "creep_score": "242",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7172,7 +7281,7 @@ stats = {
    "assists": "3",
    "creep_score": "869",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7187,7 +7296,7 @@ stats = {
    "assists": "13",
    "creep_score": "90",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7202,7 +7311,7 @@ stats = {
    "assists": "10",
    "creep_score": "496",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7217,7 +7326,7 @@ stats = {
    "assists": "6",
    "creep_score": "624",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7232,7 +7341,7 @@ stats = {
    "assists": "3",
    "creep_score": "506",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7247,7 +7356,7 @@ stats = {
    "assists": "10",
    "creep_score": "537",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7262,7 +7371,7 @@ stats = {
    "assists": "7",
    "creep_score": "635",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7277,7 +7386,7 @@ stats = {
    "assists": "7",
    "creep_score": "583",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7292,7 +7401,7 @@ stats = {
    "assists": "4",
    "creep_score": "779",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7307,7 +7416,7 @@ stats = {
    "assists": "13",
    "creep_score": "355",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7322,7 +7431,7 @@ stats = {
    "assists": "7",
    "creep_score": "340",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7337,7 +7446,7 @@ stats = {
    "assists": "6",
    "creep_score": "683",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7352,7 +7461,7 @@ stats = {
    "assists": "9",
    "creep_score": "94",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7367,7 +7476,7 @@ stats = {
    "assists": "9",
    "creep_score": "308",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7382,7 +7491,7 @@ stats = {
    "assists": "11",
    "creep_score": "392",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7397,7 +7506,7 @@ stats = {
    "assists": "11",
    "creep_score": "205",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7412,7 +7521,7 @@ stats = {
    "assists": "5",
    "creep_score": "603",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7427,7 +7536,7 @@ stats = {
    "assists": "8",
    "creep_score": "489",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7442,7 +7551,7 @@ stats = {
    "assists": "11",
    "creep_score": "237",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7457,7 +7566,7 @@ stats = {
    "assists": "4",
    "creep_score": "656",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7472,7 +7581,7 @@ stats = {
    "assists": "7",
    "creep_score": "605",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7487,7 +7596,7 @@ stats = {
    "assists": "11",
    "creep_score": "99",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7502,7 +7611,7 @@ stats = {
    "assists": "3",
    "creep_score": "744",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7517,7 +7626,7 @@ stats = {
    "assists": "7",
    "creep_score": "370",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7532,7 +7641,7 @@ stats = {
    "assists": "2",
    "creep_score": "762",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7547,7 +7656,7 @@ stats = {
    "assists": "5",
    "creep_score": "766",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7562,7 +7671,7 @@ stats = {
    "assists": "4",
    "creep_score": "500",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7577,7 +7686,7 @@ stats = {
    "assists": "10",
    "creep_score": "118",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7592,7 +7701,7 @@ stats = {
    "assists": "11",
    "creep_score": "149",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7607,7 +7716,7 @@ stats = {
    "assists": "11",
    "creep_score": "93",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7622,7 +7731,7 @@ stats = {
    "assists": "10",
    "creep_score": "105",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7637,7 +7746,7 @@ stats = {
    "assists": "6",
    "creep_score": "649",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7652,7 +7761,7 @@ stats = {
    "assists": "4",
    "creep_score": "576",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7667,7 +7776,7 @@ stats = {
    "assists": "3",
    "creep_score": "719",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7682,7 +7791,7 @@ stats = {
    "assists": "3",
    "creep_score": "360",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7697,7 +7806,7 @@ stats = {
    "assists": "2",
    "creep_score": "519",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7712,7 +7821,7 @@ stats = {
    "assists": "2",
    "creep_score": "457",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7727,7 +7836,7 @@ stats = {
    "assists": "7",
    "creep_score": "88",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7742,7 +7851,7 @@ stats = {
    "assists": "4",
    "creep_score": "550",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7757,7 +7866,7 @@ stats = {
    "assists": "4",
    "creep_score": "407",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7772,7 +7881,7 @@ stats = {
    "assists": "1",
    "creep_score": "395",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7787,7 +7896,7 @@ stats = {
    "assists": "6",
    "creep_score": "355",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7802,7 +7911,7 @@ stats = {
    "assists": "6",
    "creep_score": "52",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7817,7 +7926,7 @@ stats = {
    "assists": "5",
    "creep_score": "252",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7832,7 +7941,7 @@ stats = {
    "assists": "2",
    "creep_score": "35",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7847,7 +7956,7 @@ stats = {
    "assists": "5",
    "creep_score": "49",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7862,7 +7971,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7877,7 +7986,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7892,22 +8001,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W2"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7922,22 +8016,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W2"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7952,7 +8031,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7967,7 +8046,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7982,7 +8061,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -7997,7 +8076,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8012,7 +8091,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8027,7 +8106,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8042,7 +8121,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8057,7 +8136,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8072,7 +8151,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8087,7 +8166,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8102,7 +8181,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8117,7 +8196,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8132,7 +8211,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8147,7 +8226,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8162,7 +8241,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8177,7 +8256,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8192,7 +8271,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8207,7 +8286,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8222,7 +8301,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8237,7 +8316,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8252,7 +8331,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8267,7 +8346,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8282,7 +8361,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8297,7 +8376,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8312,7 +8391,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8327,7 +8406,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8342,7 +8421,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8357,7 +8436,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8372,7 +8451,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8387,7 +8466,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8402,7 +8481,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8417,7 +8496,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8432,7 +8511,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8447,7 +8526,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8462,7 +8541,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8477,7 +8556,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8492,7 +8571,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8507,7 +8586,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8522,7 +8601,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8537,7 +8616,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8552,7 +8631,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8567,7 +8646,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8582,7 +8661,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8597,7 +8676,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8612,7 +8691,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8627,7 +8706,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8642,7 +8721,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8657,7 +8736,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8672,7 +8751,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8687,7 +8766,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8702,7 +8781,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8717,7 +8796,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8732,7 +8811,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8747,7 +8826,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8762,7 +8841,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8777,7 +8856,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8792,7 +8871,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8807,7 +8886,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8822,7 +8901,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8837,7 +8916,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8852,7 +8931,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8867,7 +8946,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8882,7 +8961,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8897,7 +8976,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8912,7 +8991,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8927,7 +9006,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8942,7 +9021,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8957,7 +9036,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8972,7 +9051,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -8987,7 +9066,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -9002,7 +9081,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -9017,7 +9096,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -9032,7 +9111,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -9047,7 +9126,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -9062,7 +9141,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W2"
   },
   {
@@ -9077,7 +9156,7 @@ stats = {
    "assists": "7",
    "creep_score": "922",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9092,7 +9171,7 @@ stats = {
    "assists": "5",
    "creep_score": "678",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 1",
+   "multi_kill": "1 / 0 / 1",
    "week": "W3"
   },
   {
@@ -9107,7 +9186,7 @@ stats = {
    "assists": "13",
    "creep_score": "447",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9122,7 +9201,7 @@ stats = {
    "assists": "8",
    "creep_score": "777",
    "kill_assist_bonus": "0",
-   "gold_bonus": "2 / 0 / 0",
+   "multi_kill": "2 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9137,7 +9216,7 @@ stats = {
    "assists": "9",
    "creep_score": "817",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9152,7 +9231,7 @@ stats = {
    "assists": "19",
    "creep_score": "489",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9167,7 +9246,7 @@ stats = {
    "assists": "19",
    "creep_score": "448",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9182,7 +9261,7 @@ stats = {
    "assists": "22",
    "creep_score": "838",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9197,7 +9276,7 @@ stats = {
    "assists": "15",
    "creep_score": "358",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9212,7 +9291,7 @@ stats = {
    "assists": "24",
    "creep_score": "362",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9227,7 +9306,7 @@ stats = {
    "assists": "17",
    "creep_score": "433",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9242,7 +9321,7 @@ stats = {
    "assists": "17",
    "creep_score": "537",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9257,7 +9336,7 @@ stats = {
    "assists": "13",
    "creep_score": "608",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9272,7 +9351,7 @@ stats = {
    "assists": "12",
    "creep_score": "498",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9287,7 +9366,7 @@ stats = {
    "assists": "9",
    "creep_score": "523",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9302,7 +9381,7 @@ stats = {
    "assists": "12",
    "creep_score": "1,139",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9317,7 +9396,7 @@ stats = {
    "assists": "26",
    "creep_score": "93",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9332,7 +9411,7 @@ stats = {
    "assists": "14",
    "creep_score": "655",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9347,7 +9426,7 @@ stats = {
    "assists": "11",
    "creep_score": "473",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9362,7 +9441,7 @@ stats = {
    "assists": "17",
    "creep_score": "315",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9377,7 +9456,7 @@ stats = {
    "assists": "15",
    "creep_score": "413",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9392,7 +9471,7 @@ stats = {
    "assists": "7",
    "creep_score": "599",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9407,7 +9486,7 @@ stats = {
    "assists": "22",
    "creep_score": "92",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9422,7 +9501,7 @@ stats = {
    "assists": "15",
    "creep_score": "670",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9437,7 +9516,7 @@ stats = {
    "assists": "16",
    "creep_score": "547",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9452,7 +9531,7 @@ stats = {
    "assists": "18",
    "creep_score": "545",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9467,7 +9546,7 @@ stats = {
    "assists": "13",
    "creep_score": "316",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9482,7 +9561,7 @@ stats = {
    "assists": "21",
    "creep_score": "59",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9497,7 +9576,7 @@ stats = {
    "assists": "20",
    "creep_score": "184",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9512,7 +9591,7 @@ stats = {
    "assists": "14",
    "creep_score": "487",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9527,7 +9606,7 @@ stats = {
    "assists": "9",
    "creep_score": "686",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9542,7 +9621,7 @@ stats = {
    "assists": "7",
    "creep_score": "852",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9557,7 +9636,7 @@ stats = {
    "assists": "18",
    "creep_score": "602",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9572,7 +9651,7 @@ stats = {
    "assists": "22",
    "creep_score": "127",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9587,7 +9666,7 @@ stats = {
    "assists": "23",
    "creep_score": "37",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9602,7 +9681,7 @@ stats = {
    "assists": "5",
    "creep_score": "721",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9617,7 +9696,7 @@ stats = {
    "assists": "16",
    "creep_score": "445",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9632,7 +9711,7 @@ stats = {
    "assists": "8",
    "creep_score": "794",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9647,7 +9726,7 @@ stats = {
    "assists": "16",
    "creep_score": "626",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9662,7 +9741,7 @@ stats = {
    "assists": "16",
    "creep_score": "406",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9677,7 +9756,7 @@ stats = {
    "assists": "8",
    "creep_score": "454",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9692,7 +9771,7 @@ stats = {
    "assists": "20",
    "creep_score": "86",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9707,7 +9786,7 @@ stats = {
    "assists": "7",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9722,7 +9801,7 @@ stats = {
    "assists": "18",
    "creep_score": "118",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9737,7 +9816,7 @@ stats = {
    "assists": "15",
    "creep_score": "738",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9752,7 +9831,7 @@ stats = {
    "assists": "19",
    "creep_score": "39",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9767,7 +9846,7 @@ stats = {
    "assists": "19",
    "creep_score": "157",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9782,7 +9861,7 @@ stats = {
    "assists": "11",
    "creep_score": "607",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9797,7 +9876,7 @@ stats = {
    "assists": "13",
    "creep_score": "582",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9812,7 +9891,7 @@ stats = {
    "assists": "18",
    "creep_score": "119",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9827,7 +9906,7 @@ stats = {
    "assists": "17",
    "creep_score": "90",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9842,7 +9921,7 @@ stats = {
    "assists": "13",
    "creep_score": "387",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9857,7 +9936,7 @@ stats = {
    "assists": "14",
    "creep_score": "129",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9872,7 +9951,7 @@ stats = {
    "assists": "15",
    "creep_score": "271",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9887,7 +9966,7 @@ stats = {
    "assists": "11",
    "creep_score": "461",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9902,7 +9981,7 @@ stats = {
    "assists": "12",
    "creep_score": "364",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9917,7 +9996,7 @@ stats = {
    "assists": "8",
    "creep_score": "775",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9932,7 +10011,7 @@ stats = {
    "assists": "5",
    "creep_score": "456",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9947,7 +10026,7 @@ stats = {
    "assists": "17",
    "creep_score": "100",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9962,7 +10041,7 @@ stats = {
    "assists": "13",
    "creep_score": "435",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9977,7 +10056,7 @@ stats = {
    "assists": "10",
    "creep_score": "704",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -9992,7 +10071,7 @@ stats = {
    "assists": "15",
    "creep_score": "73",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10007,7 +10086,7 @@ stats = {
    "assists": "9",
    "creep_score": "766",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10022,7 +10101,7 @@ stats = {
    "assists": "3",
    "creep_score": "440",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10037,7 +10116,7 @@ stats = {
    "assists": "13",
    "creep_score": "159",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10052,7 +10131,7 @@ stats = {
    "assists": "5",
    "creep_score": "578",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10067,7 +10146,7 @@ stats = {
    "assists": "8",
    "creep_score": "284",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10082,7 +10161,7 @@ stats = {
    "assists": "5",
    "creep_score": "498",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10097,7 +10176,7 @@ stats = {
    "assists": "5",
    "creep_score": "684",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10112,7 +10191,7 @@ stats = {
    "assists": "7",
    "creep_score": "374",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10127,7 +10206,7 @@ stats = {
    "assists": "5",
    "creep_score": "423",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10142,7 +10221,7 @@ stats = {
    "assists": "2",
    "creep_score": "915",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10157,7 +10236,7 @@ stats = {
    "assists": "5",
    "creep_score": "627",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10172,7 +10251,7 @@ stats = {
    "assists": "5",
    "creep_score": "512",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10187,7 +10266,7 @@ stats = {
    "assists": "1",
    "creep_score": "674",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10202,7 +10281,7 @@ stats = {
    "assists": "8",
    "creep_score": "67",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10217,7 +10296,7 @@ stats = {
    "assists": "4",
    "creep_score": "235",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10232,7 +10311,7 @@ stats = {
    "assists": "3",
    "creep_score": "562",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10247,7 +10326,7 @@ stats = {
    "assists": "4",
    "creep_score": "459",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10262,7 +10341,7 @@ stats = {
    "assists": "3",
    "creep_score": "486",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10277,7 +10356,7 @@ stats = {
    "assists": "5",
    "creep_score": "85",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10292,7 +10371,7 @@ stats = {
    "assists": "7",
    "creep_score": "261",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10307,7 +10386,7 @@ stats = {
    "assists": "5",
    "creep_score": "153",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10322,7 +10401,7 @@ stats = {
    "assists": "0",
    "creep_score": "582",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10337,7 +10416,7 @@ stats = {
    "assists": "2",
    "creep_score": "568",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10352,7 +10431,7 @@ stats = {
    "assists": "2",
    "creep_score": "554",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10367,7 +10446,7 @@ stats = {
    "assists": "1",
    "creep_score": "464",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10382,7 +10461,7 @@ stats = {
    "assists": "2",
    "creep_score": "431",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10397,7 +10476,7 @@ stats = {
    "assists": "3",
    "creep_score": "582",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10412,7 +10491,7 @@ stats = {
    "assists": "2",
    "creep_score": "557",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10427,7 +10506,7 @@ stats = {
    "assists": "5",
    "creep_score": "34",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10442,7 +10521,7 @@ stats = {
    "assists": "2",
    "creep_score": "233",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10457,7 +10536,7 @@ stats = {
    "assists": "4",
    "creep_score": "76",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10472,7 +10551,7 @@ stats = {
    "assists": "0",
    "creep_score": "535",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10487,7 +10566,7 @@ stats = {
    "assists": "3",
    "creep_score": "292",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10502,7 +10581,7 @@ stats = {
    "assists": "1",
    "creep_score": "250",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10517,7 +10596,7 @@ stats = {
    "assists": "1",
    "creep_score": "385",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10532,7 +10611,7 @@ stats = {
    "assists": "3",
    "creep_score": "85",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10547,7 +10626,7 @@ stats = {
    "assists": "3",
    "creep_score": "32",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10562,7 +10641,7 @@ stats = {
    "assists": "2",
    "creep_score": "73",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10577,7 +10656,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10592,7 +10671,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10607,7 +10686,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10622,22 +10701,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W3"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10652,22 +10716,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W3"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10682,7 +10731,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10697,7 +10746,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10712,7 +10761,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10727,7 +10776,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10742,7 +10791,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10757,7 +10806,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10772,7 +10821,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10787,7 +10836,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10802,7 +10851,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10817,7 +10866,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10832,7 +10881,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10847,7 +10896,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10862,7 +10911,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10877,7 +10926,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10892,7 +10941,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10907,7 +10956,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10922,7 +10971,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10937,7 +10986,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10952,7 +11001,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10967,7 +11016,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10982,7 +11031,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -10997,7 +11046,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11012,7 +11061,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11027,7 +11076,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11042,7 +11091,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11057,7 +11106,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11072,7 +11121,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11087,7 +11136,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11102,7 +11151,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11117,7 +11166,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11132,7 +11181,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11147,7 +11196,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11162,7 +11211,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11177,7 +11226,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11192,7 +11241,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11207,7 +11256,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11222,7 +11271,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11237,7 +11286,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11252,7 +11301,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11267,7 +11316,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11282,7 +11331,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11297,7 +11346,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11312,7 +11361,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11327,7 +11376,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11342,7 +11391,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11357,7 +11406,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11372,7 +11421,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11387,7 +11436,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11402,7 +11451,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11417,7 +11466,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11432,7 +11481,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11447,7 +11496,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11462,7 +11511,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11477,7 +11526,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11492,7 +11541,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11507,7 +11556,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11522,7 +11571,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11537,7 +11586,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11552,7 +11601,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11567,7 +11616,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11582,7 +11631,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11597,7 +11646,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11612,7 +11661,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11627,7 +11676,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11642,7 +11691,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11657,7 +11706,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11672,7 +11721,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11687,7 +11736,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11702,7 +11751,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11717,7 +11766,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11732,7 +11781,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11747,7 +11796,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11762,7 +11811,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11777,7 +11826,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W3"
   },
   {
@@ -11792,7 +11841,7 @@ stats = {
    "assists": "33",
    "creep_score": "355",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11807,7 +11856,7 @@ stats = {
    "assists": "16",
    "creep_score": "797",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11822,7 +11871,7 @@ stats = {
    "assists": "21",
    "creep_score": "683",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11837,7 +11886,7 @@ stats = {
    "assists": "34",
    "creep_score": "65",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11852,7 +11901,7 @@ stats = {
    "assists": "22",
    "creep_score": "759",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11867,7 +11916,7 @@ stats = {
    "assists": "14",
    "creep_score": "701",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11882,7 +11931,7 @@ stats = {
    "assists": "7",
    "creep_score": "804",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11897,7 +11946,7 @@ stats = {
    "assists": "28",
    "creep_score": "38",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11912,7 +11961,7 @@ stats = {
    "assists": "13",
    "creep_score": "663",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11927,7 +11976,7 @@ stats = {
    "assists": "23",
    "creep_score": "389",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11942,7 +11991,7 @@ stats = {
    "assists": "12",
    "creep_score": "785",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11957,7 +12006,7 @@ stats = {
    "assists": "15",
    "creep_score": "507",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11972,7 +12021,7 @@ stats = {
    "assists": "17",
    "creep_score": "655",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W4"
   },
   {
@@ -11987,7 +12036,7 @@ stats = {
    "assists": "16",
    "creep_score": "751",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12002,7 +12051,7 @@ stats = {
    "assists": "18",
    "creep_score": "618",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12017,7 +12066,7 @@ stats = {
    "assists": "14",
    "creep_score": "316",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12032,7 +12081,7 @@ stats = {
    "assists": "18",
    "creep_score": "821",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12047,7 +12096,7 @@ stats = {
    "assists": "12",
    "creep_score": "410",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12062,7 +12111,7 @@ stats = {
    "assists": "12",
    "creep_score": "655",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12077,7 +12126,7 @@ stats = {
    "assists": "11",
    "creep_score": "768",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12092,7 +12141,7 @@ stats = {
    "assists": "14",
    "creep_score": "452",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12107,7 +12156,7 @@ stats = {
    "assists": "15",
    "creep_score": "558",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12122,7 +12171,7 @@ stats = {
    "assists": "23",
    "creep_score": "107",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12137,7 +12186,7 @@ stats = {
    "assists": "17",
    "creep_score": "661",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12152,7 +12201,7 @@ stats = {
    "assists": "22",
    "creep_score": "73",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12167,7 +12216,7 @@ stats = {
    "assists": "13",
    "creep_score": "549",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12182,7 +12231,7 @@ stats = {
    "assists": "13",
    "creep_score": "522",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12197,7 +12246,7 @@ stats = {
    "assists": "15",
    "creep_score": "559",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12212,7 +12261,7 @@ stats = {
    "assists": "20",
    "creep_score": "387",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12227,7 +12276,7 @@ stats = {
    "assists": "19",
    "creep_score": "225",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12242,7 +12291,7 @@ stats = {
    "assists": "12",
    "creep_score": "549",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12257,7 +12306,7 @@ stats = {
    "assists": "15",
    "creep_score": "285",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12272,7 +12321,7 @@ stats = {
    "assists": "15",
    "creep_score": "668",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12287,7 +12336,7 @@ stats = {
    "assists": "14",
    "creep_score": "508",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12302,7 +12351,7 @@ stats = {
    "assists": "16",
    "creep_score": "150",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12317,7 +12366,7 @@ stats = {
    "assists": "9",
    "creep_score": "585",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12332,7 +12381,7 @@ stats = {
    "assists": "13",
    "creep_score": "292",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12347,7 +12396,7 @@ stats = {
    "assists": "15",
    "creep_score": "670",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12362,7 +12411,7 @@ stats = {
    "assists": "21",
    "creep_score": "113",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12377,7 +12426,7 @@ stats = {
    "assists": "9",
    "creep_score": "930",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12392,7 +12441,7 @@ stats = {
    "assists": "9",
    "creep_score": "600",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12407,7 +12456,7 @@ stats = {
    "assists": "10",
    "creep_score": "495",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12422,7 +12471,7 @@ stats = {
    "assists": "10",
    "creep_score": "386",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12437,7 +12486,7 @@ stats = {
    "assists": "9",
    "creep_score": "510",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12452,7 +12501,7 @@ stats = {
    "assists": "13",
    "creep_score": "478",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12467,7 +12516,7 @@ stats = {
    "assists": "16",
    "creep_score": "121",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12482,7 +12531,7 @@ stats = {
    "assists": "10",
    "creep_score": "317",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12497,7 +12546,7 @@ stats = {
    "assists": "7",
    "creep_score": "700",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12512,7 +12561,7 @@ stats = {
    "assists": "19",
    "creep_score": "131",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12527,7 +12576,7 @@ stats = {
    "assists": "8",
    "creep_score": "938",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12542,7 +12591,7 @@ stats = {
    "assists": "16",
    "creep_score": "39",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12557,7 +12606,7 @@ stats = {
    "assists": "9",
    "creep_score": "530",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12572,7 +12621,7 @@ stats = {
    "assists": "10",
    "creep_score": "705",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12587,7 +12636,7 @@ stats = {
    "assists": "14",
    "creep_score": "139",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12602,7 +12651,7 @@ stats = {
    "assists": "7",
    "creep_score": "978",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12617,7 +12666,7 @@ stats = {
    "assists": "3",
    "creep_score": "616",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12632,7 +12681,7 @@ stats = {
    "assists": "8",
    "creep_score": "598",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12647,7 +12696,7 @@ stats = {
    "assists": "9",
    "creep_score": "576",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12662,7 +12711,7 @@ stats = {
    "assists": "7",
    "creep_score": "697",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12677,7 +12726,7 @@ stats = {
    "assists": "16",
    "creep_score": "92",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12692,7 +12741,7 @@ stats = {
    "assists": "6",
    "creep_score": "419",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12707,7 +12756,7 @@ stats = {
    "assists": "6",
    "creep_score": "597",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12722,7 +12771,7 @@ stats = {
    "assists": "8",
    "creep_score": "462",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12737,7 +12786,7 @@ stats = {
    "assists": "7",
    "creep_score": "834",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12752,7 +12801,7 @@ stats = {
    "assists": "7",
    "creep_score": "726",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12767,7 +12816,7 @@ stats = {
    "assists": "5",
    "creep_score": "274",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12782,7 +12831,7 @@ stats = {
    "assists": "7",
    "creep_score": "467",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12797,7 +12846,7 @@ stats = {
    "assists": "3",
    "creep_score": "632",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12812,7 +12861,7 @@ stats = {
    "assists": "10",
    "creep_score": "638",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12827,7 +12876,7 @@ stats = {
    "assists": "3",
    "creep_score": "664",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12842,7 +12891,7 @@ stats = {
    "assists": "11",
    "creep_score": "557",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12857,7 +12906,7 @@ stats = {
    "assists": "6",
    "creep_score": "646",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12872,7 +12921,7 @@ stats = {
    "assists": "8",
    "creep_score": "487",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12887,7 +12936,7 @@ stats = {
    "assists": "9",
    "creep_score": "528",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12902,7 +12951,7 @@ stats = {
    "assists": "12",
    "creep_score": "75",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12917,7 +12966,7 @@ stats = {
    "assists": "10",
    "creep_score": "262",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12932,7 +12981,7 @@ stats = {
    "assists": "11",
    "creep_score": "262",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12947,7 +12996,7 @@ stats = {
    "assists": "6",
    "creep_score": "602",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12962,7 +13011,7 @@ stats = {
    "assists": "13",
    "creep_score": "99",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12977,7 +13026,7 @@ stats = {
    "assists": "7",
    "creep_score": "585",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -12992,7 +13041,7 @@ stats = {
    "assists": "5",
    "creep_score": "824",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13007,7 +13056,7 @@ stats = {
    "assists": "6",
    "creep_score": "648",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13022,7 +13071,7 @@ stats = {
    "assists": "7",
    "creep_score": "711",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13037,7 +13086,7 @@ stats = {
    "assists": "6",
    "creep_score": "707",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13052,7 +13101,7 @@ stats = {
    "assists": "3",
    "creep_score": "739",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13067,7 +13116,7 @@ stats = {
    "assists": "8",
    "creep_score": "446",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13082,7 +13131,7 @@ stats = {
    "assists": "8",
    "creep_score": "477",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13097,7 +13146,7 @@ stats = {
    "assists": "10",
    "creep_score": "43",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13112,7 +13161,7 @@ stats = {
    "assists": "11",
    "creep_score": "88",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13127,7 +13176,7 @@ stats = {
    "assists": "6",
    "creep_score": "541",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13142,7 +13191,7 @@ stats = {
    "assists": "5",
    "creep_score": "590",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13157,7 +13206,7 @@ stats = {
    "assists": "7",
    "creep_score": "239",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13172,7 +13221,7 @@ stats = {
    "assists": "11",
    "creep_score": "139",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13187,7 +13236,7 @@ stats = {
    "assists": "8",
    "creep_score": "97",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13202,7 +13251,7 @@ stats = {
    "assists": "9",
    "creep_score": "38",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13217,7 +13266,7 @@ stats = {
    "assists": "7",
    "creep_score": "481",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13232,7 +13281,7 @@ stats = {
    "assists": "11",
    "creep_score": "60",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13247,7 +13296,7 @@ stats = {
    "assists": "7",
    "creep_score": "196",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13262,7 +13311,7 @@ stats = {
    "assists": "10",
    "creep_score": "142",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13277,7 +13326,7 @@ stats = {
    "assists": "9",
    "creep_score": "116",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13292,7 +13341,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13307,7 +13356,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13322,22 +13371,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W4"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13352,22 +13386,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W4"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13382,7 +13401,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13397,7 +13416,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13412,7 +13431,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13427,7 +13446,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13442,7 +13461,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13457,7 +13476,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13472,7 +13491,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13487,7 +13506,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13502,7 +13521,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13517,7 +13536,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13532,7 +13551,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13547,7 +13566,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13562,7 +13581,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13577,7 +13596,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13592,7 +13611,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13607,7 +13626,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13622,7 +13641,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13637,7 +13656,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13652,7 +13671,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13667,7 +13686,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13682,7 +13701,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13697,7 +13716,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13712,7 +13731,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13727,7 +13746,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13742,7 +13761,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13757,7 +13776,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13772,7 +13791,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13787,7 +13806,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13802,7 +13821,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13817,7 +13836,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13832,7 +13851,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13847,7 +13866,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13862,7 +13881,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13877,7 +13896,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13892,7 +13911,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13907,7 +13926,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13922,7 +13941,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13937,7 +13956,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13952,7 +13971,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13967,7 +13986,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13982,7 +14001,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -13997,7 +14016,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14012,7 +14031,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14027,7 +14046,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14042,7 +14061,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14057,7 +14076,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14072,7 +14091,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14087,7 +14106,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14102,7 +14121,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14117,7 +14136,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14132,7 +14151,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14147,7 +14166,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14162,7 +14181,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14177,7 +14196,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14192,7 +14211,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14207,7 +14226,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14222,7 +14241,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14237,7 +14256,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14252,7 +14271,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14267,7 +14286,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14282,7 +14301,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14297,7 +14316,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14312,7 +14331,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14327,7 +14346,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14342,7 +14361,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14357,7 +14376,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14372,7 +14391,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14387,7 +14406,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14402,7 +14421,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14417,7 +14436,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14432,7 +14451,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14447,7 +14466,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14462,7 +14481,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14477,7 +14496,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14492,7 +14511,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W4"
   },
   {
@@ -14507,7 +14526,7 @@ stats = {
    "assists": "10",
    "creep_score": "706",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14522,7 +14541,7 @@ stats = {
    "assists": "18",
    "creep_score": "589",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14537,7 +14556,7 @@ stats = {
    "assists": "10",
    "creep_score": "579",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14552,7 +14571,7 @@ stats = {
    "assists": "11",
    "creep_score": "643",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14567,7 +14586,7 @@ stats = {
    "assists": "13",
    "creep_score": "761",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14582,7 +14601,7 @@ stats = {
    "assists": "13",
    "creep_score": "689",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14597,7 +14616,7 @@ stats = {
    "assists": "16",
    "creep_score": "477",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14612,7 +14631,7 @@ stats = {
    "assists": "16",
    "creep_score": "809",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14627,7 +14646,7 @@ stats = {
    "assists": "6",
    "creep_score": "811",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14642,7 +14661,7 @@ stats = {
    "assists": "17",
    "creep_score": "314",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14657,7 +14676,7 @@ stats = {
    "assists": "11",
    "creep_score": "641",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14672,7 +14691,7 @@ stats = {
    "assists": "5",
    "creep_score": "852",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14687,7 +14706,7 @@ stats = {
    "assists": "15",
    "creep_score": "413",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14702,7 +14721,7 @@ stats = {
    "assists": "18",
    "creep_score": "384",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14717,7 +14736,7 @@ stats = {
    "assists": "14",
    "creep_score": "764",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14732,7 +14751,7 @@ stats = {
    "assists": "13",
    "creep_score": "357",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14747,7 +14766,7 @@ stats = {
    "assists": "15",
    "creep_score": "642",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14762,7 +14781,7 @@ stats = {
    "assists": "13",
    "creep_score": "583",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14777,7 +14796,7 @@ stats = {
    "assists": "21",
    "creep_score": "65",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14792,7 +14811,7 @@ stats = {
    "assists": "18",
    "creep_score": "263",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14807,7 +14826,7 @@ stats = {
    "assists": "8",
    "creep_score": "678",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14822,7 +14841,7 @@ stats = {
    "assists": "19",
    "creep_score": "166",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14837,7 +14856,7 @@ stats = {
    "assists": "12",
    "creep_score": "809",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14852,7 +14871,7 @@ stats = {
    "assists": "13",
    "creep_score": "554",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14867,7 +14886,7 @@ stats = {
    "assists": "10",
    "creep_score": "595",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14882,7 +14901,7 @@ stats = {
    "assists": "9",
    "creep_score": "685",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14897,7 +14916,7 @@ stats = {
    "assists": "10",
    "creep_score": "517",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14912,7 +14931,7 @@ stats = {
    "assists": "10",
    "creep_score": "674",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14927,7 +14946,7 @@ stats = {
    "assists": "8",
    "creep_score": "646",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14942,7 +14961,7 @@ stats = {
    "assists": "8",
    "creep_score": "387",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14957,7 +14976,7 @@ stats = {
    "assists": "9",
    "creep_score": "761",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14972,7 +14991,7 @@ stats = {
    "assists": "12",
    "creep_score": "563",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -14987,7 +15006,7 @@ stats = {
    "assists": "13",
    "creep_score": "384",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15002,7 +15021,7 @@ stats = {
    "assists": "16",
    "creep_score": "108",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15017,7 +15036,7 @@ stats = {
    "assists": "15",
    "creep_score": "237",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15032,7 +15051,7 @@ stats = {
    "assists": "6",
    "creep_score": "605",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15047,7 +15066,7 @@ stats = {
    "assists": "16",
    "creep_score": "97",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15062,7 +15081,7 @@ stats = {
    "assists": "10",
    "creep_score": "696",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15077,7 +15096,7 @@ stats = {
    "assists": "10",
    "creep_score": "590",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15092,7 +15111,7 @@ stats = {
    "assists": "18",
    "creep_score": "128",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15107,7 +15126,7 @@ stats = {
    "assists": "8",
    "creep_score": "572",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15122,7 +15141,7 @@ stats = {
    "assists": "16",
    "creep_score": "516",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15137,7 +15156,7 @@ stats = {
    "assists": "11",
    "creep_score": "601",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15152,7 +15171,7 @@ stats = {
    "assists": "6",
    "creep_score": "629",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15167,7 +15186,7 @@ stats = {
    "assists": "8",
    "creep_score": "660",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15182,7 +15201,7 @@ stats = {
    "assists": "14",
    "creep_score": "298",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15197,7 +15216,7 @@ stats = {
    "assists": "7",
    "creep_score": "528",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15212,7 +15231,7 @@ stats = {
    "assists": "12",
    "creep_score": "72",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15227,7 +15246,7 @@ stats = {
    "assists": "16",
    "creep_score": "97",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15242,7 +15261,7 @@ stats = {
    "assists": "12",
    "creep_score": "643",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15257,7 +15276,7 @@ stats = {
    "assists": "9",
    "creep_score": "624",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15272,7 +15291,7 @@ stats = {
    "assists": "9",
    "creep_score": "615",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15287,7 +15306,7 @@ stats = {
    "assists": "7",
    "creep_score": "638",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15302,7 +15321,7 @@ stats = {
    "assists": "13",
    "creep_score": "440",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15317,7 +15336,7 @@ stats = {
    "assists": "11",
    "creep_score": "384",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15332,7 +15351,7 @@ stats = {
    "assists": "7",
    "creep_score": "550",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15347,7 +15366,7 @@ stats = {
    "assists": "10",
    "creep_score": "596",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15362,7 +15381,7 @@ stats = {
    "assists": "8",
    "creep_score": "383",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15377,7 +15396,7 @@ stats = {
    "assists": "9",
    "creep_score": "323",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15392,7 +15411,7 @@ stats = {
    "assists": "12",
    "creep_score": "213",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15407,7 +15426,7 @@ stats = {
    "assists": "10",
    "creep_score": "461",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15422,7 +15441,7 @@ stats = {
    "assists": "12",
    "creep_score": "124",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15437,7 +15456,7 @@ stats = {
    "assists": "8",
    "creep_score": "718",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15452,7 +15471,7 @@ stats = {
    "assists": "11",
    "creep_score": "230",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15467,7 +15486,7 @@ stats = {
    "assists": "10",
    "creep_score": "571",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15482,7 +15501,7 @@ stats = {
    "assists": "5",
    "creep_score": "378",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15497,7 +15516,7 @@ stats = {
    "assists": "7",
    "creep_score": "671",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15512,7 +15531,7 @@ stats = {
    "assists": "12",
    "creep_score": "89",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15527,7 +15546,7 @@ stats = {
    "assists": "8",
    "creep_score": "536",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15542,7 +15561,7 @@ stats = {
    "assists": "10",
    "creep_score": "583",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15557,7 +15576,7 @@ stats = {
    "assists": "15",
    "creep_score": "37",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15572,7 +15591,7 @@ stats = {
    "assists": "6",
    "creep_score": "573",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15587,7 +15606,7 @@ stats = {
    "assists": "8",
    "creep_score": "424",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15602,7 +15621,7 @@ stats = {
    "assists": "3",
    "creep_score": "537",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15617,7 +15636,7 @@ stats = {
    "assists": "6",
    "creep_score": "539",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15632,7 +15651,7 @@ stats = {
    "assists": "7",
    "creep_score": "412",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15647,7 +15666,7 @@ stats = {
    "assists": "12",
    "creep_score": "99",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15662,7 +15681,7 @@ stats = {
    "assists": "8",
    "creep_score": "498",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15677,7 +15696,7 @@ stats = {
    "assists": "12",
    "creep_score": "83",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15692,7 +15711,7 @@ stats = {
    "assists": "10",
    "creep_score": "132",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15707,7 +15726,7 @@ stats = {
    "assists": "11",
    "creep_score": "30",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15722,7 +15741,7 @@ stats = {
    "assists": "5",
    "creep_score": "578",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15737,7 +15756,7 @@ stats = {
    "assists": "8",
    "creep_score": "641",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15752,7 +15771,7 @@ stats = {
    "assists": "5",
    "creep_score": "684",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15767,7 +15786,7 @@ stats = {
    "assists": "11",
    "creep_score": "79",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15782,7 +15801,7 @@ stats = {
    "assists": "4",
    "creep_score": "596",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15797,7 +15816,7 @@ stats = {
    "assists": "5",
    "creep_score": "575",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15812,7 +15831,7 @@ stats = {
    "assists": "4",
    "creep_score": "519",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15827,7 +15846,7 @@ stats = {
    "assists": "11",
    "creep_score": "114",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15842,7 +15861,7 @@ stats = {
    "assists": "12",
    "creep_score": "45",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15857,7 +15876,7 @@ stats = {
    "assists": "7",
    "creep_score": "641",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15872,7 +15891,7 @@ stats = {
    "assists": "5",
    "creep_score": "501",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15887,7 +15906,7 @@ stats = {
    "assists": "5",
    "creep_score": "239",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15902,7 +15921,7 @@ stats = {
    "assists": "2",
    "creep_score": "623",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15917,7 +15936,7 @@ stats = {
    "assists": "2",
    "creep_score": "642",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15932,7 +15951,7 @@ stats = {
    "assists": "5",
    "creep_score": "139",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15947,7 +15966,7 @@ stats = {
    "assists": "3",
    "creep_score": "457",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15962,7 +15981,7 @@ stats = {
    "assists": "6",
    "creep_score": "115",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15977,7 +15996,7 @@ stats = {
    "assists": "4",
    "creep_score": "264",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -15992,7 +16011,7 @@ stats = {
    "assists": "4",
    "creep_score": "99",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16007,7 +16026,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16022,7 +16041,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16037,22 +16056,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W5"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16067,22 +16071,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W5"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16097,7 +16086,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16112,7 +16101,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16127,7 +16116,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16142,7 +16131,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16157,7 +16146,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16172,7 +16161,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16187,7 +16176,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16202,7 +16191,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16217,7 +16206,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16232,7 +16221,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16247,7 +16236,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16262,7 +16251,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16277,7 +16266,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16292,7 +16281,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16307,7 +16296,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16322,7 +16311,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16337,7 +16326,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16352,7 +16341,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16367,7 +16356,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16382,7 +16371,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16397,7 +16386,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16412,7 +16401,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16427,7 +16416,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16442,7 +16431,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16457,7 +16446,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16472,7 +16461,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16487,7 +16476,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16502,7 +16491,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16517,7 +16506,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16532,7 +16521,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16547,7 +16536,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16562,7 +16551,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16577,7 +16566,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16592,7 +16581,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16607,7 +16596,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16622,7 +16611,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16637,7 +16626,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16652,7 +16641,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16667,7 +16656,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16682,7 +16671,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16697,7 +16686,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16712,7 +16701,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16727,7 +16716,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16742,7 +16731,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16757,7 +16746,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16772,7 +16761,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16787,7 +16776,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16802,7 +16791,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16817,7 +16806,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16832,7 +16821,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16847,7 +16836,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16862,7 +16851,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16877,7 +16866,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16892,7 +16881,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16907,7 +16896,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16922,7 +16911,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16937,7 +16926,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16952,7 +16941,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16967,7 +16956,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16982,7 +16971,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -16997,7 +16986,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17012,7 +17001,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17027,7 +17016,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17042,7 +17031,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17057,7 +17046,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17072,7 +17061,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17087,7 +17076,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17102,7 +17091,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17117,7 +17106,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17132,7 +17121,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17147,7 +17136,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17162,7 +17151,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17177,7 +17166,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17192,7 +17181,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17207,7 +17196,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W5"
   },
   {
@@ -17222,7 +17211,7 @@ stats = {
    "assists": "16",
    "creep_score": "465",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17237,7 +17226,7 @@ stats = {
    "assists": "27",
    "creep_score": "389",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17252,7 +17241,7 @@ stats = {
    "assists": "17",
    "creep_score": "498",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17267,7 +17256,7 @@ stats = {
    "assists": "13",
    "creep_score": "869",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17282,7 +17271,7 @@ stats = {
    "assists": "14",
    "creep_score": "701",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17297,7 +17286,7 @@ stats = {
    "assists": "21",
    "creep_score": "588",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17312,7 +17301,7 @@ stats = {
    "assists": "18",
    "creep_score": "641",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17327,7 +17316,7 @@ stats = {
    "assists": "14",
    "creep_score": "663",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17342,7 +17331,7 @@ stats = {
    "assists": "16",
    "creep_score": "889",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17357,7 +17346,7 @@ stats = {
    "assists": "18",
    "creep_score": "403",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17372,7 +17361,7 @@ stats = {
    "assists": "16",
    "creep_score": "426",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17387,7 +17376,7 @@ stats = {
    "assists": "18",
    "creep_score": "502",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17402,7 +17391,7 @@ stats = {
    "assists": "14",
    "creep_score": "654",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17417,7 +17406,7 @@ stats = {
    "assists": "11",
    "creep_score": "722",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17432,7 +17421,7 @@ stats = {
    "assists": "24",
    "creep_score": "117",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17447,7 +17436,7 @@ stats = {
    "assists": "11",
    "creep_score": "696",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17462,7 +17451,7 @@ stats = {
    "assists": "12",
    "creep_score": "951",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17477,7 +17466,7 @@ stats = {
    "assists": "13",
    "creep_score": "395",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17492,7 +17481,7 @@ stats = {
    "assists": "18",
    "creep_score": "86",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17507,7 +17496,7 @@ stats = {
    "assists": "11",
    "creep_score": "690",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17522,7 +17511,7 @@ stats = {
    "assists": "12",
    "creep_score": "529",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17537,7 +17526,7 @@ stats = {
    "assists": "20",
    "creep_score": "106",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17552,7 +17541,7 @@ stats = {
    "assists": "12",
    "creep_score": "690",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17567,7 +17556,7 @@ stats = {
    "assists": "9",
    "creep_score": "756",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17582,7 +17571,7 @@ stats = {
    "assists": "10",
    "creep_score": "805",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17597,7 +17586,7 @@ stats = {
    "assists": "12",
    "creep_score": "615",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17612,7 +17601,7 @@ stats = {
    "assists": "10",
    "creep_score": "613",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17627,7 +17616,7 @@ stats = {
    "assists": "15",
    "creep_score": "402",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17642,7 +17631,7 @@ stats = {
    "assists": "19",
    "creep_score": "116",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17657,7 +17646,7 @@ stats = {
    "assists": "6",
    "creep_score": "541",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17672,7 +17661,7 @@ stats = {
    "assists": "9",
    "creep_score": "563",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17687,7 +17676,7 @@ stats = {
    "assists": "17",
    "creep_score": "74",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17702,7 +17691,7 @@ stats = {
    "assists": "10",
    "creep_score": "487",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17717,7 +17706,7 @@ stats = {
    "assists": "17",
    "creep_score": "112",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17732,7 +17721,7 @@ stats = {
    "assists": "11",
    "creep_score": "105",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17747,7 +17736,7 @@ stats = {
    "assists": "9",
    "creep_score": "693",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17762,7 +17751,7 @@ stats = {
    "assists": "6",
    "creep_score": "580",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17777,7 +17766,7 @@ stats = {
    "assists": "12",
    "creep_score": "67",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17792,7 +17781,7 @@ stats = {
    "assists": "13",
    "creep_score": "662",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17807,7 +17796,7 @@ stats = {
    "assists": "10",
    "creep_score": "608",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17822,7 +17811,7 @@ stats = {
    "assists": "6",
    "creep_score": "766",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17837,7 +17826,7 @@ stats = {
    "assists": "7",
    "creep_score": "808",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17852,7 +17841,7 @@ stats = {
    "assists": "12",
    "creep_score": "507",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17867,7 +17856,7 @@ stats = {
    "assists": "16",
    "creep_score": "57",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17882,7 +17871,7 @@ stats = {
    "assists": "13",
    "creep_score": "343",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17897,7 +17886,7 @@ stats = {
    "assists": "10",
    "creep_score": "538",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17912,7 +17901,7 @@ stats = {
    "assists": "7",
    "creep_score": "952",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17927,7 +17916,7 @@ stats = {
    "assists": "5",
    "creep_score": "811",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17942,7 +17931,7 @@ stats = {
    "assists": "11",
    "creep_score": "524",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17957,7 +17946,7 @@ stats = {
    "assists": "14",
    "creep_score": "38",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17972,7 +17961,7 @@ stats = {
    "assists": "10",
    "creep_score": "274",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -17987,7 +17976,7 @@ stats = {
    "assists": "4",
    "creep_score": "334",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18002,7 +17991,7 @@ stats = {
    "assists": "5",
    "creep_score": "516",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18017,7 +18006,7 @@ stats = {
    "assists": "4",
    "creep_score": "363",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18032,7 +18021,7 @@ stats = {
    "assists": "2",
    "creep_score": "1,089",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18047,7 +18036,7 @@ stats = {
    "assists": "4",
    "creep_score": "1,038",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18062,7 +18051,7 @@ stats = {
    "assists": "9",
    "creep_score": "468",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18077,7 +18066,7 @@ stats = {
    "assists": "9",
    "creep_score": "417",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18092,7 +18081,7 @@ stats = {
    "assists": "5",
    "creep_score": "566",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18107,7 +18096,7 @@ stats = {
    "assists": "5",
    "creep_score": "704",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18122,7 +18111,7 @@ stats = {
    "assists": "5",
    "creep_score": "849",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18137,7 +18126,7 @@ stats = {
    "assists": "9",
    "creep_score": "369",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18152,7 +18141,7 @@ stats = {
    "assists": "8",
    "creep_score": "705",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18167,7 +18156,7 @@ stats = {
    "assists": "12",
    "creep_score": "80",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18182,7 +18171,7 @@ stats = {
    "assists": "6",
    "creep_score": "470",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18197,7 +18186,7 @@ stats = {
    "assists": "10",
    "creep_score": "508",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18212,7 +18201,7 @@ stats = {
    "assists": "8",
    "creep_score": "265",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18227,7 +18216,7 @@ stats = {
    "assists": "4",
    "creep_score": "576",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18242,7 +18231,7 @@ stats = {
    "assists": "5",
    "creep_score": "323",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18257,7 +18246,7 @@ stats = {
    "assists": "7",
    "creep_score": "562",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18272,7 +18261,7 @@ stats = {
    "assists": "4",
    "creep_score": "556",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18287,7 +18276,7 @@ stats = {
    "assists": "7",
    "creep_score": "748",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18302,7 +18291,7 @@ stats = {
    "assists": "4",
    "creep_score": "577",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18317,7 +18306,7 @@ stats = {
    "assists": "3",
    "creep_score": "526",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18332,7 +18321,7 @@ stats = {
    "assists": "8",
    "creep_score": "106",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18347,7 +18336,7 @@ stats = {
    "assists": "1",
    "creep_score": "643",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18362,7 +18351,7 @@ stats = {
    "assists": "9",
    "creep_score": "280",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18377,7 +18366,7 @@ stats = {
    "assists": "3",
    "creep_score": "425",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18392,7 +18381,7 @@ stats = {
    "assists": "8",
    "creep_score": "602",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18407,7 +18396,7 @@ stats = {
    "assists": "7",
    "creep_score": "279",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18422,7 +18411,7 @@ stats = {
    "assists": "9",
    "creep_score": "621",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18437,7 +18426,7 @@ stats = {
    "assists": "8",
    "creep_score": "449",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18452,7 +18441,7 @@ stats = {
    "assists": "3",
    "creep_score": "634",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18467,7 +18456,7 @@ stats = {
    "assists": "10",
    "creep_score": "126",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18482,7 +18471,7 @@ stats = {
    "assists": "10",
    "creep_score": "130",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18497,7 +18486,7 @@ stats = {
    "assists": "1",
    "creep_score": "605",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18512,7 +18501,7 @@ stats = {
    "assists": "7",
    "creep_score": "276",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18527,7 +18516,7 @@ stats = {
    "assists": "3",
    "creep_score": "662",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18542,7 +18531,7 @@ stats = {
    "assists": "4",
    "creep_score": "303",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18557,7 +18546,7 @@ stats = {
    "assists": "2",
    "creep_score": "650",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18572,7 +18561,7 @@ stats = {
    "assists": "3",
    "creep_score": "537",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18587,7 +18576,7 @@ stats = {
    "assists": "9",
    "creep_score": "108",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18602,7 +18591,7 @@ stats = {
    "assists": "9",
    "creep_score": "77",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18617,7 +18606,7 @@ stats = {
    "assists": "7",
    "creep_score": "71",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18632,7 +18621,7 @@ stats = {
    "assists": "5",
    "creep_score": "300",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18647,7 +18636,7 @@ stats = {
    "assists": "5",
    "creep_score": "481",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18662,7 +18651,7 @@ stats = {
    "assists": "1",
    "creep_score": "478",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18677,7 +18666,7 @@ stats = {
    "assists": "6",
    "creep_score": "86",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18692,7 +18681,7 @@ stats = {
    "assists": "4",
    "creep_score": "192",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18707,7 +18696,7 @@ stats = {
    "assists": "4",
    "creep_score": "109",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18722,7 +18711,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18737,7 +18726,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18752,7 +18741,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18767,7 +18756,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18782,22 +18771,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W6"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18812,22 +18786,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W6"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18842,7 +18801,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18857,7 +18816,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18872,7 +18831,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18887,7 +18846,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18902,7 +18861,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18917,7 +18876,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18932,7 +18891,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18947,7 +18906,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18962,7 +18921,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18977,7 +18936,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -18992,7 +18951,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19007,7 +18966,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19022,7 +18981,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19037,7 +18996,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19052,7 +19011,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19067,7 +19026,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19082,7 +19041,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19097,7 +19056,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19112,7 +19071,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19127,7 +19086,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19142,7 +19101,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19157,7 +19116,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19172,7 +19131,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19187,7 +19146,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19202,7 +19161,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19217,7 +19176,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19232,7 +19191,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19247,7 +19206,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19262,7 +19221,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19277,7 +19236,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19292,7 +19251,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19307,7 +19266,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19322,7 +19281,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19337,7 +19296,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19352,7 +19311,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19367,7 +19326,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19382,7 +19341,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19397,7 +19356,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19412,7 +19371,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19427,7 +19386,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19442,7 +19401,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19457,7 +19416,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19472,7 +19431,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19487,7 +19446,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19502,7 +19461,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19517,7 +19476,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19532,7 +19491,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19547,7 +19506,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19562,7 +19521,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19577,7 +19536,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19592,7 +19551,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19607,7 +19566,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19622,7 +19581,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19637,7 +19596,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19652,7 +19611,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19667,7 +19626,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19682,7 +19641,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19697,7 +19656,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19712,7 +19671,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19727,7 +19686,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19742,7 +19701,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19757,7 +19716,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19772,7 +19731,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19787,7 +19746,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19802,7 +19761,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19817,7 +19776,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19832,7 +19791,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19847,7 +19806,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19862,7 +19821,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19877,7 +19836,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19892,7 +19851,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19907,7 +19866,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19922,7 +19881,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W6"
   },
   {
@@ -19937,7 +19896,7 @@ stats = {
    "assists": "29",
    "creep_score": "354",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -19952,7 +19911,7 @@ stats = {
    "assists": "22",
    "creep_score": "556",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -19967,7 +19926,7 @@ stats = {
    "assists": "28",
    "creep_score": "29",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -19982,7 +19941,7 @@ stats = {
    "assists": "11",
    "creep_score": "767",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -19997,7 +19956,7 @@ stats = {
    "assists": "15",
    "creep_score": "620",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20012,7 +19971,7 @@ stats = {
    "assists": "18",
    "creep_score": "525",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20027,7 +19986,7 @@ stats = {
    "assists": "15",
    "creep_score": "788",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20042,7 +20001,7 @@ stats = {
    "assists": "9",
    "creep_score": "782",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 1 / 0",
+   "multi_kill": "0 / 1 / 0",
    "week": "W7"
   },
   {
@@ -20057,7 +20016,7 @@ stats = {
    "assists": "17",
    "creep_score": "613",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20072,7 +20031,7 @@ stats = {
    "assists": "10",
    "creep_score": "801",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20087,7 +20046,7 @@ stats = {
    "assists": "20",
    "creep_score": "320",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20102,7 +20061,7 @@ stats = {
    "assists": "11",
    "creep_score": "816",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20117,7 +20076,7 @@ stats = {
    "assists": "11",
    "creep_score": "475",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20132,7 +20091,7 @@ stats = {
    "assists": "9",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20147,7 +20106,7 @@ stats = {
    "assists": "16",
    "creep_score": "342",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20162,7 +20121,7 @@ stats = {
    "assists": "11",
    "creep_score": "744",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20177,7 +20136,7 @@ stats = {
    "assists": "10",
    "creep_score": "856",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20192,7 +20151,7 @@ stats = {
    "assists": "8",
    "creep_score": "765",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20207,7 +20166,7 @@ stats = {
    "assists": "9",
    "creep_score": "685",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20222,7 +20181,7 @@ stats = {
    "assists": "20",
    "creep_score": "377",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20237,7 +20196,7 @@ stats = {
    "assists": "9",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20252,7 +20211,7 @@ stats = {
    "assists": "13",
    "creep_score": "841",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20267,7 +20226,7 @@ stats = {
    "assists": "12",
    "creep_score": "510",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20282,7 +20241,7 @@ stats = {
    "assists": "9",
    "creep_score": "702",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20297,7 +20256,7 @@ stats = {
    "assists": "13",
    "creep_score": "702",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20312,7 +20271,7 @@ stats = {
    "assists": "7",
    "creep_score": "649",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20327,7 +20286,7 @@ stats = {
    "assists": "23",
    "creep_score": "25",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20342,7 +20301,7 @@ stats = {
    "assists": "9",
    "creep_score": "868",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20357,7 +20316,7 @@ stats = {
    "assists": "14",
    "creep_score": "406",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20372,7 +20331,7 @@ stats = {
    "assists": "11",
    "creep_score": "727",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20387,7 +20346,7 @@ stats = {
    "assists": "11",
    "creep_score": "628",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20402,7 +20361,7 @@ stats = {
    "assists": "8",
    "creep_score": "405",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20417,7 +20376,7 @@ stats = {
    "assists": "10",
    "creep_score": "487",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20432,7 +20391,7 @@ stats = {
    "assists": "9",
    "creep_score": "699",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20447,7 +20406,7 @@ stats = {
    "assists": "9",
    "creep_score": "396",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20462,7 +20421,7 @@ stats = {
    "assists": "8",
    "creep_score": "671",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20477,7 +20436,7 @@ stats = {
    "assists": "7",
    "creep_score": "856",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20492,7 +20451,7 @@ stats = {
    "assists": "8",
    "creep_score": "725",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20507,7 +20466,7 @@ stats = {
    "assists": "7",
    "creep_score": "863",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20522,7 +20481,7 @@ stats = {
    "assists": "7",
    "creep_score": "793",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20537,7 +20496,7 @@ stats = {
    "assists": "9",
    "creep_score": "823",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20552,7 +20511,7 @@ stats = {
    "assists": "10",
    "creep_score": "665",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20567,7 +20526,7 @@ stats = {
    "assists": "16",
    "creep_score": "406",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20582,7 +20541,7 @@ stats = {
    "assists": "5",
    "creep_score": "715",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20597,7 +20556,7 @@ stats = {
    "assists": "9",
    "creep_score": "644",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20612,7 +20571,7 @@ stats = {
    "assists": "17",
    "creep_score": "63",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20627,7 +20586,7 @@ stats = {
    "assists": "4",
    "creep_score": "815",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20642,7 +20601,7 @@ stats = {
    "assists": "9",
    "creep_score": "514",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20657,7 +20616,7 @@ stats = {
    "assists": "10",
    "creep_score": "692",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20672,7 +20631,7 @@ stats = {
    "assists": "9",
    "creep_score": "759",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20687,7 +20646,7 @@ stats = {
    "assists": "8",
    "creep_score": "604",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20702,7 +20661,7 @@ stats = {
    "assists": "6",
    "creep_score": "736",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20717,7 +20676,7 @@ stats = {
    "assists": "8",
    "creep_score": "367",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20732,7 +20691,7 @@ stats = {
    "assists": "15",
    "creep_score": "166",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20747,7 +20706,7 @@ stats = {
    "assists": "11",
    "creep_score": "578",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20762,7 +20721,7 @@ stats = {
    "assists": "16",
    "creep_score": "180",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20777,7 +20736,7 @@ stats = {
    "assists": "7",
    "creep_score": "733",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20792,7 +20751,7 @@ stats = {
    "assists": "8",
    "creep_score": "280",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20807,7 +20766,7 @@ stats = {
    "assists": "14",
    "creep_score": "130",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20822,7 +20781,7 @@ stats = {
    "assists": "11",
    "creep_score": "123",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20837,7 +20796,7 @@ stats = {
    "assists": "9",
    "creep_score": "335",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20852,7 +20811,7 @@ stats = {
    "assists": "4",
    "creep_score": "572",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20867,7 +20826,7 @@ stats = {
    "assists": "7",
    "creep_score": "808",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20882,7 +20841,7 @@ stats = {
    "assists": "6",
    "creep_score": "785",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20897,7 +20856,7 @@ stats = {
    "assists": "6",
    "creep_score": "674",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20912,7 +20871,7 @@ stats = {
    "assists": "6",
    "creep_score": "379",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20927,7 +20886,7 @@ stats = {
    "assists": "6",
    "creep_score": "717",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20942,7 +20901,7 @@ stats = {
    "assists": "14",
    "creep_score": "40",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20957,7 +20916,7 @@ stats = {
    "assists": "9",
    "creep_score": "374",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20972,7 +20931,7 @@ stats = {
    "assists": "11",
    "creep_score": "155",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -20987,7 +20946,7 @@ stats = {
    "assists": "8",
    "creep_score": "396",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21002,7 +20961,7 @@ stats = {
    "assists": "8",
    "creep_score": "754",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21017,7 +20976,7 @@ stats = {
    "assists": "13",
    "creep_score": "95",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21032,7 +20991,7 @@ stats = {
    "assists": "8",
    "creep_score": "291",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21047,7 +21006,7 @@ stats = {
    "assists": "12",
    "creep_score": "153",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21062,7 +21021,7 @@ stats = {
    "assists": "10",
    "creep_score": "139",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21077,7 +21036,7 @@ stats = {
    "assists": "6",
    "creep_score": "715",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21092,7 +21051,7 @@ stats = {
    "assists": "7",
    "creep_score": "682",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21107,7 +21066,7 @@ stats = {
    "assists": "7",
    "creep_score": "634",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21122,7 +21081,7 @@ stats = {
    "assists": "10",
    "creep_score": "113",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21137,7 +21096,7 @@ stats = {
    "assists": "2",
    "creep_score": "705",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21152,7 +21111,7 @@ stats = {
    "assists": "10",
    "creep_score": "106",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21167,7 +21126,7 @@ stats = {
    "assists": "7",
    "creep_score": "403",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21182,7 +21141,7 @@ stats = {
    "assists": "2",
    "creep_score": "742",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21197,7 +21156,7 @@ stats = {
    "assists": "2",
    "creep_score": "380",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21212,7 +21171,7 @@ stats = {
    "assists": "5",
    "creep_score": "573",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21227,7 +21186,7 @@ stats = {
    "assists": "6",
    "creep_score": "127",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21242,7 +21201,7 @@ stats = {
    "assists": "8",
    "creep_score": "103",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21257,7 +21216,7 @@ stats = {
    "assists": "6",
    "creep_score": "621",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21272,7 +21231,7 @@ stats = {
    "assists": "1",
    "creep_score": "765",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21287,7 +21246,7 @@ stats = {
    "assists": "4",
    "creep_score": "635",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21302,7 +21261,7 @@ stats = {
    "assists": "7",
    "creep_score": "132",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21317,7 +21276,7 @@ stats = {
    "assists": "9",
    "creep_score": "90",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21332,7 +21291,7 @@ stats = {
    "assists": "2",
    "creep_score": "552",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21347,7 +21306,7 @@ stats = {
    "assists": "8",
    "creep_score": "135",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21362,7 +21321,7 @@ stats = {
    "assists": "2",
    "creep_score": "570",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21377,7 +21336,7 @@ stats = {
    "assists": "1",
    "creep_score": "676",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21392,7 +21351,7 @@ stats = {
    "assists": "5",
    "creep_score": "124",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21407,7 +21366,7 @@ stats = {
    "assists": "6",
    "creep_score": "269",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21422,7 +21381,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21437,7 +21396,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21452,7 +21411,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21467,22 +21426,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W7"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21497,22 +21441,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W7"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21527,7 +21456,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21542,7 +21471,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21557,7 +21486,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21572,7 +21501,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21587,7 +21516,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21602,7 +21531,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21617,7 +21546,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21632,7 +21561,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21647,7 +21576,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21662,7 +21591,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21677,7 +21606,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21692,7 +21621,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21707,7 +21636,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21722,7 +21651,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21737,7 +21666,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21752,7 +21681,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21767,7 +21696,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21782,7 +21711,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21797,7 +21726,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21812,7 +21741,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21827,7 +21756,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21842,7 +21771,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21857,7 +21786,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21872,7 +21801,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21887,7 +21816,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21902,7 +21831,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21917,7 +21846,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21932,7 +21861,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21947,7 +21876,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21962,7 +21891,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21977,7 +21906,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -21992,7 +21921,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22007,7 +21936,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22022,7 +21951,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22037,7 +21966,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22052,7 +21981,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22067,7 +21996,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22082,7 +22011,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22097,7 +22026,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22112,7 +22041,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22127,7 +22056,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22142,7 +22071,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22157,7 +22086,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22172,7 +22101,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22187,7 +22116,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22202,7 +22131,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22217,7 +22146,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22232,7 +22161,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22247,7 +22176,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22262,7 +22191,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22277,7 +22206,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22292,7 +22221,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22307,7 +22236,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22322,7 +22251,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22337,7 +22266,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22352,7 +22281,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22367,7 +22296,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22382,7 +22311,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22397,7 +22326,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22412,7 +22341,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22427,7 +22356,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22442,7 +22371,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22457,7 +22386,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22472,7 +22401,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22487,7 +22416,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22502,7 +22431,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22517,7 +22446,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22532,7 +22461,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22547,7 +22476,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22562,7 +22491,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22577,7 +22506,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22592,7 +22521,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22607,7 +22536,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22622,7 +22551,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22637,7 +22566,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W7"
   },
   {
@@ -22652,7 +22581,7 @@ stats = {
    "assists": "13",
    "creep_score": "720",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22667,7 +22596,7 @@ stats = {
    "assists": "26",
    "creep_score": "486",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22682,7 +22611,7 @@ stats = {
    "assists": "22",
    "creep_score": "681",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22697,7 +22626,7 @@ stats = {
    "assists": "19",
    "creep_score": "762",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22712,7 +22641,7 @@ stats = {
    "assists": "22",
    "creep_score": "688",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22727,7 +22656,7 @@ stats = {
    "assists": "16",
    "creep_score": "775",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22742,7 +22671,7 @@ stats = {
    "assists": "21",
    "creep_score": "388",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22757,7 +22686,7 @@ stats = {
    "assists": "19",
    "creep_score": "642",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22772,7 +22701,7 @@ stats = {
    "assists": "15",
    "creep_score": "793",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22787,7 +22716,7 @@ stats = {
    "assists": "26",
    "creep_score": "87",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22802,7 +22731,7 @@ stats = {
    "assists": "11",
    "creep_score": "1,016",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22817,7 +22746,7 @@ stats = {
    "assists": "11",
    "creep_score": "761",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22832,7 +22761,7 @@ stats = {
    "assists": "19",
    "creep_score": "386",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22847,7 +22776,7 @@ stats = {
    "assists": "12",
    "creep_score": "402",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22862,7 +22791,7 @@ stats = {
    "assists": "14",
    "creep_score": "665",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22877,7 +22806,7 @@ stats = {
    "assists": "13",
    "creep_score": "735",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22892,7 +22821,7 @@ stats = {
    "assists": "12",
    "creep_score": "789",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22907,7 +22836,7 @@ stats = {
    "assists": "16",
    "creep_score": "183",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22922,7 +22851,7 @@ stats = {
    "assists": "25",
    "creep_score": "83",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22937,7 +22866,7 @@ stats = {
    "assists": "14",
    "creep_score": "678",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22952,7 +22881,7 @@ stats = {
    "assists": "18",
    "creep_score": "329",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22967,7 +22896,7 @@ stats = {
    "assists": "12",
    "creep_score": "680",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22982,7 +22911,7 @@ stats = {
    "assists": "10",
    "creep_score": "706",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -22997,7 +22926,7 @@ stats = {
    "assists": "16",
    "creep_score": "400",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23012,7 +22941,7 @@ stats = {
    "assists": "10",
    "creep_score": "665",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23027,7 +22956,7 @@ stats = {
    "assists": "16",
    "creep_score": "459",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23042,7 +22971,7 @@ stats = {
    "assists": "20",
    "creep_score": "155",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23057,7 +22986,7 @@ stats = {
    "assists": "12",
    "creep_score": "677",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23072,7 +23001,7 @@ stats = {
    "assists": "13",
    "creep_score": "579",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23087,7 +23016,7 @@ stats = {
    "assists": "13",
    "creep_score": "820",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23102,7 +23031,7 @@ stats = {
    "assists": "14",
    "creep_score": "935",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23117,7 +23046,7 @@ stats = {
    "assists": "7",
    "creep_score": "864",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23132,7 +23061,7 @@ stats = {
    "assists": "11",
    "creep_score": "577",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23147,7 +23076,7 @@ stats = {
    "assists": "6",
    "creep_score": "658",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23162,7 +23091,7 @@ stats = {
    "assists": "20",
    "creep_score": "351",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23177,7 +23106,7 @@ stats = {
    "assists": "11",
    "creep_score": "731",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23192,7 +23121,7 @@ stats = {
    "assists": "15",
    "creep_score": "381",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23207,7 +23136,7 @@ stats = {
    "assists": "7",
    "creep_score": "715",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23222,7 +23151,7 @@ stats = {
    "assists": "19",
    "creep_score": "166",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23237,7 +23166,7 @@ stats = {
    "assists": "18",
    "creep_score": "69",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23252,7 +23181,7 @@ stats = {
    "assists": "2",
    "creep_score": "677",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23267,7 +23196,7 @@ stats = {
    "assists": "16",
    "creep_score": "158",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23282,7 +23211,7 @@ stats = {
    "assists": "9",
    "creep_score": "648",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23297,7 +23226,7 @@ stats = {
    "assists": "10",
    "creep_score": "185",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23312,7 +23241,7 @@ stats = {
    "assists": "12",
    "creep_score": "796",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23327,7 +23256,7 @@ stats = {
    "assists": "17",
    "creep_score": "110",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23342,7 +23271,7 @@ stats = {
    "assists": "8",
    "creep_score": "276",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23357,7 +23286,7 @@ stats = {
    "assists": "11",
    "creep_score": "306",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23372,7 +23301,7 @@ stats = {
    "assists": "10",
    "creep_score": "604",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23387,7 +23316,7 @@ stats = {
    "assists": "11",
    "creep_score": "740",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23402,7 +23331,7 @@ stats = {
    "assists": "15",
    "creep_score": "164",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23417,7 +23346,7 @@ stats = {
    "assists": "3",
    "creep_score": "777",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23432,7 +23361,7 @@ stats = {
    "assists": "10",
    "creep_score": "619",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23447,7 +23376,7 @@ stats = {
    "assists": "12",
    "creep_score": "327",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23462,7 +23391,7 @@ stats = {
    "assists": "11",
    "creep_score": "724",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23477,7 +23406,7 @@ stats = {
    "assists": "18",
    "creep_score": "123",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23492,7 +23421,7 @@ stats = {
    "assists": "10",
    "creep_score": "159",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23507,7 +23436,7 @@ stats = {
    "assists": "8",
    "creep_score": "552",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23522,7 +23451,7 @@ stats = {
    "assists": "8",
    "creep_score": "598",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23537,7 +23466,7 @@ stats = {
    "assists": "10",
    "creep_score": "766",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23552,7 +23481,7 @@ stats = {
    "assists": "10",
    "creep_score": "686",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23567,7 +23496,7 @@ stats = {
    "assists": "8",
    "creep_score": "607",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23582,7 +23511,7 @@ stats = {
    "assists": "3",
    "creep_score": "640",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23597,7 +23526,7 @@ stats = {
    "assists": "8",
    "creep_score": "580",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23612,7 +23541,7 @@ stats = {
    "assists": "3",
    "creep_score": "624",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23627,7 +23556,7 @@ stats = {
    "assists": "8",
    "creep_score": "561",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23642,7 +23571,7 @@ stats = {
    "assists": "7",
    "creep_score": "607",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23657,7 +23586,7 @@ stats = {
    "assists": "9",
    "creep_score": "316",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23672,7 +23601,7 @@ stats = {
    "assists": "9",
    "creep_score": "509",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23687,7 +23616,7 @@ stats = {
    "assists": "10",
    "creep_score": "618",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23702,7 +23631,7 @@ stats = {
    "assists": "14",
    "creep_score": "77",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23717,7 +23646,7 @@ stats = {
    "assists": "8",
    "creep_score": "673",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23732,7 +23661,7 @@ stats = {
    "assists": "8",
    "creep_score": "543",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23747,7 +23676,7 @@ stats = {
    "assists": "5",
    "creep_score": "383",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23762,7 +23691,7 @@ stats = {
    "assists": "7",
    "creep_score": "416",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23777,7 +23706,7 @@ stats = {
    "assists": "6",
    "creep_score": "415",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23792,7 +23721,7 @@ stats = {
    "assists": "10",
    "creep_score": "277",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23807,7 +23736,7 @@ stats = {
    "assists": "5",
    "creep_score": "599",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23822,7 +23751,7 @@ stats = {
    "assists": "3",
    "creep_score": "554",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23837,7 +23766,7 @@ stats = {
    "assists": "9",
    "creep_score": "91",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23852,7 +23781,7 @@ stats = {
    "assists": "10",
    "creep_score": "312",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23867,7 +23796,7 @@ stats = {
    "assists": "9",
    "creep_score": "117",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23882,7 +23811,7 @@ stats = {
    "assists": "4",
    "creep_score": "190",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23897,7 +23826,7 @@ stats = {
    "assists": "5",
    "creep_score": "588",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23912,7 +23841,7 @@ stats = {
    "assists": "4",
    "creep_score": "668",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23927,7 +23856,7 @@ stats = {
    "assists": "3",
    "creep_score": "270",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23942,7 +23871,7 @@ stats = {
    "assists": "1",
    "creep_score": "695",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23957,7 +23886,7 @@ stats = {
    "assists": "3",
    "creep_score": "630",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23972,7 +23901,7 @@ stats = {
    "assists": "5",
    "creep_score": "670",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -23987,7 +23916,7 @@ stats = {
    "assists": "9",
    "creep_score": "79",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24002,7 +23931,7 @@ stats = {
    "assists": "7",
    "creep_score": "359",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24017,7 +23946,7 @@ stats = {
    "assists": "7",
    "creep_score": "103",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24032,7 +23961,7 @@ stats = {
    "assists": "2",
    "creep_score": "672",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24047,7 +23976,7 @@ stats = {
    "assists": "5",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24062,7 +23991,7 @@ stats = {
    "assists": "7",
    "creep_score": "85",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24077,7 +24006,7 @@ stats = {
    "assists": "7",
    "creep_score": "115",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24092,7 +24021,7 @@ stats = {
    "assists": "4",
    "creep_score": "358",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24107,7 +24036,7 @@ stats = {
    "assists": "1",
    "creep_score": "325",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24122,7 +24051,7 @@ stats = {
    "assists": "2",
    "creep_score": "279",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24137,7 +24066,7 @@ stats = {
    "assists": "1",
    "creep_score": "567",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24152,7 +24081,7 @@ stats = {
    "assists": "4",
    "creep_score": "313",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24167,7 +24096,7 @@ stats = {
    "assists": "0",
    "creep_score": "499",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24182,7 +24111,7 @@ stats = {
    "assists": "5",
    "creep_score": "97",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24197,7 +24126,7 @@ stats = {
    "assists": "5",
    "creep_score": "110",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24212,7 +24141,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24227,7 +24156,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24242,7 +24171,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24257,22 +24186,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W8"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24287,22 +24201,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W8"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24317,7 +24216,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24332,7 +24231,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24347,7 +24246,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24362,7 +24261,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24377,7 +24276,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24392,7 +24291,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24407,7 +24306,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24422,7 +24321,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24437,7 +24336,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24452,7 +24351,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24467,7 +24366,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24482,7 +24381,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24497,7 +24396,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24512,7 +24411,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24527,7 +24426,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24542,7 +24441,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24557,7 +24456,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24572,7 +24471,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24587,7 +24486,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24602,7 +24501,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24617,7 +24516,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24632,7 +24531,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24647,7 +24546,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24662,7 +24561,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24677,7 +24576,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24692,7 +24591,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24707,7 +24606,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24722,7 +24621,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24737,7 +24636,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24752,7 +24651,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24767,7 +24666,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24782,7 +24681,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24797,7 +24696,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24812,7 +24711,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24827,7 +24726,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24842,7 +24741,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24857,7 +24756,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24872,7 +24771,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24887,7 +24786,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24902,7 +24801,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24917,7 +24816,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24932,7 +24831,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24947,7 +24846,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24962,7 +24861,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24977,7 +24876,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -24992,7 +24891,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25007,7 +24906,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25022,7 +24921,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25037,7 +24936,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25052,7 +24951,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25067,7 +24966,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25082,7 +24981,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25097,7 +24996,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25112,7 +25011,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25127,7 +25026,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25142,7 +25041,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25157,7 +25056,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25172,7 +25071,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25187,7 +25086,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25202,7 +25101,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25217,7 +25116,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25232,7 +25131,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25247,7 +25146,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25262,7 +25161,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25277,7 +25176,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25292,7 +25191,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25307,7 +25206,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25322,7 +25221,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25337,7 +25236,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25352,7 +25251,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W8"
   },
   {
@@ -25367,7 +25266,7 @@ stats = {
    "assists": "13",
    "creep_score": "553",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25382,7 +25281,7 @@ stats = {
    "assists": "16",
    "creep_score": "733",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25397,7 +25296,7 @@ stats = {
    "assists": "6",
    "creep_score": "721",
    "kill_assist_bonus": "1",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25412,7 +25311,7 @@ stats = {
    "assists": "24",
    "creep_score": "603",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25427,7 +25326,7 @@ stats = {
    "assists": "13",
    "creep_score": "499",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25442,7 +25341,7 @@ stats = {
    "assists": "17",
    "creep_score": "696",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25457,7 +25356,7 @@ stats = {
    "assists": "22",
    "creep_score": "290",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25472,7 +25371,7 @@ stats = {
    "assists": "19",
    "creep_score": "405",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25487,7 +25386,7 @@ stats = {
    "assists": "22",
    "creep_score": "91",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25502,7 +25401,7 @@ stats = {
    "assists": "10",
    "creep_score": "608",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25517,7 +25416,7 @@ stats = {
    "assists": "13",
    "creep_score": "811",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25532,7 +25431,7 @@ stats = {
    "assists": "8",
    "creep_score": "613",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25547,7 +25446,7 @@ stats = {
    "assists": "11",
    "creep_score": "660",
    "kill_assist_bonus": "0",
-   "gold_bonus": "1 / 0 / 0",
+   "multi_kill": "1 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25562,7 +25461,7 @@ stats = {
    "assists": "17",
    "creep_score": "703",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25577,7 +25476,7 @@ stats = {
    "assists": "10",
    "creep_score": "433",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25592,7 +25491,7 @@ stats = {
    "assists": "15",
    "creep_score": "664",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25607,7 +25506,7 @@ stats = {
    "assists": "13",
    "creep_score": "725",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25622,7 +25521,7 @@ stats = {
    "assists": "16",
    "creep_score": "374",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25637,7 +25536,7 @@ stats = {
    "assists": "19",
    "creep_score": "320",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25652,7 +25551,7 @@ stats = {
    "assists": "23",
    "creep_score": "162",
    "kill_assist_bonus": "2",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25667,7 +25566,7 @@ stats = {
    "assists": "7",
    "creep_score": "767",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25682,7 +25581,7 @@ stats = {
    "assists": "10",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25697,7 +25596,7 @@ stats = {
    "assists": "11",
    "creep_score": "665",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25712,7 +25611,7 @@ stats = {
    "assists": "10",
    "creep_score": "760",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25727,7 +25626,7 @@ stats = {
    "assists": "15",
    "creep_score": "360",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25742,7 +25641,7 @@ stats = {
    "assists": "14",
    "creep_score": "347",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25757,7 +25656,7 @@ stats = {
    "assists": "6",
    "creep_score": "542",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25772,7 +25671,7 @@ stats = {
    "assists": "14",
    "creep_score": "463",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25787,7 +25686,7 @@ stats = {
    "assists": "22",
    "creep_score": "94",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25802,7 +25701,7 @@ stats = {
    "assists": "14",
    "creep_score": "373",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25817,7 +25716,7 @@ stats = {
    "assists": "8",
    "creep_score": "588",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25832,7 +25731,7 @@ stats = {
    "assists": "18",
    "creep_score": "66",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25847,7 +25746,7 @@ stats = {
    "assists": "13",
    "creep_score": "685",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25862,7 +25761,7 @@ stats = {
    "assists": "15",
    "creep_score": "623",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25877,7 +25776,7 @@ stats = {
    "assists": "16",
    "creep_score": "512",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25892,7 +25791,7 @@ stats = {
    "assists": "15",
    "creep_score": "385",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25907,7 +25806,7 @@ stats = {
    "assists": "10",
    "creep_score": "503",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25922,7 +25821,7 @@ stats = {
    "assists": "19",
    "creep_score": "65",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25937,7 +25836,7 @@ stats = {
    "assists": "14",
    "creep_score": "651",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25952,7 +25851,7 @@ stats = {
    "assists": "16",
    "creep_score": "153",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25967,7 +25866,7 @@ stats = {
    "assists": "17",
    "creep_score": "119",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25982,7 +25881,7 @@ stats = {
    "assists": "15",
    "creep_score": "156",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -25997,7 +25896,7 @@ stats = {
    "assists": "9",
    "creep_score": "650",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26012,7 +25911,7 @@ stats = {
    "assists": "10",
    "creep_score": "687",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26027,7 +25926,7 @@ stats = {
    "assists": "16",
    "creep_score": "108",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26042,7 +25941,7 @@ stats = {
    "assists": "7",
    "creep_score": "687",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26057,7 +25956,7 @@ stats = {
    "assists": "11",
    "creep_score": "370",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26072,7 +25971,7 @@ stats = {
    "assists": "13",
    "creep_score": "151",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26087,7 +25986,7 @@ stats = {
    "assists": "12",
    "creep_score": "447",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26102,7 +26001,7 @@ stats = {
    "assists": "9",
    "creep_score": "536",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26117,7 +26016,7 @@ stats = {
    "assists": "10",
    "creep_score": "503",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26132,7 +26031,7 @@ stats = {
    "assists": "9",
    "creep_score": "689",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26147,7 +26046,7 @@ stats = {
    "assists": "10",
    "creep_score": "608",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26162,7 +26061,7 @@ stats = {
    "assists": "10",
    "creep_score": "553",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26177,7 +26076,7 @@ stats = {
    "assists": "13",
    "creep_score": "102",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26192,7 +26091,7 @@ stats = {
    "assists": "9",
    "creep_score": "334",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26207,7 +26106,7 @@ stats = {
    "assists": "7",
    "creep_score": "627",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26222,7 +26121,7 @@ stats = {
    "assists": "7",
    "creep_score": "548",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26237,7 +26136,7 @@ stats = {
    "assists": "5",
    "creep_score": "669",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26252,7 +26151,7 @@ stats = {
    "assists": "7",
    "creep_score": "262",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26267,7 +26166,7 @@ stats = {
    "assists": "9",
    "creep_score": "547",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26282,7 +26181,7 @@ stats = {
    "assists": "9",
    "creep_score": "444",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26297,7 +26196,7 @@ stats = {
    "assists": "3",
    "creep_score": "691",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26312,7 +26211,7 @@ stats = {
    "assists": "3",
    "creep_score": "739",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26327,7 +26226,7 @@ stats = {
    "assists": "5",
    "creep_score": "685",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26342,7 +26241,7 @@ stats = {
    "assists": "8",
    "creep_score": "376",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26357,7 +26256,7 @@ stats = {
    "assists": "5",
    "creep_score": "554",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26372,7 +26271,7 @@ stats = {
    "assists": "3",
    "creep_score": "545",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26387,7 +26286,7 @@ stats = {
    "assists": "9",
    "creep_score": "245",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26402,7 +26301,7 @@ stats = {
    "assists": "6",
    "creep_score": "330",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26417,7 +26316,7 @@ stats = {
    "assists": "7",
    "creep_score": "288",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26432,7 +26331,7 @@ stats = {
    "assists": "11",
    "creep_score": "70",
    "kill_assist_bonus": "1",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26447,7 +26346,7 @@ stats = {
    "assists": "10",
    "creep_score": "126",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26462,7 +26361,7 @@ stats = {
    "assists": "5",
    "creep_score": "328",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26477,7 +26376,7 @@ stats = {
    "assists": "8",
    "creep_score": "276",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26492,7 +26391,7 @@ stats = {
    "assists": "3",
    "creep_score": "650",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26507,7 +26406,7 @@ stats = {
    "assists": "4",
    "creep_score": "582",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26522,7 +26421,7 @@ stats = {
    "assists": "11",
    "creep_score": "76",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26537,7 +26436,7 @@ stats = {
    "assists": "7",
    "creep_score": "313",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26552,7 +26451,7 @@ stats = {
    "assists": "4",
    "creep_score": "548",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26567,7 +26466,7 @@ stats = {
    "assists": "3",
    "creep_score": "301",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26582,7 +26481,7 @@ stats = {
    "assists": "6",
    "creep_score": "639",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26597,7 +26496,7 @@ stats = {
    "assists": "3",
    "creep_score": "625",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26612,7 +26511,7 @@ stats = {
    "assists": "5",
    "creep_score": "516",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26627,7 +26526,7 @@ stats = {
    "assists": "4",
    "creep_score": "556",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26642,7 +26541,7 @@ stats = {
    "assists": "4",
    "creep_score": "373",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26657,7 +26556,7 @@ stats = {
    "assists": "5",
    "creep_score": "303",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26672,7 +26571,7 @@ stats = {
    "assists": "3",
    "creep_score": "523",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26687,7 +26586,7 @@ stats = {
    "assists": "1",
    "creep_score": "668",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26702,7 +26601,7 @@ stats = {
    "assists": "7",
    "creep_score": "118",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26717,7 +26616,7 @@ stats = {
    "assists": "1",
    "creep_score": "299",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26732,7 +26631,7 @@ stats = {
    "assists": "4",
    "creep_score": "647",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26747,7 +26646,7 @@ stats = {
    "assists": "4",
    "creep_score": "685",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26762,7 +26661,7 @@ stats = {
    "assists": "3",
    "creep_score": "555",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26777,7 +26676,7 @@ stats = {
    "assists": "8",
    "creep_score": "82",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26792,7 +26691,7 @@ stats = {
    "assists": "8",
    "creep_score": "110",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26807,7 +26706,7 @@ stats = {
    "assists": "4",
    "creep_score": "550",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26822,7 +26721,7 @@ stats = {
    "assists": "4",
    "creep_score": "591",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26837,7 +26736,7 @@ stats = {
    "assists": "8",
    "creep_score": "38",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26852,7 +26751,7 @@ stats = {
    "assists": "2",
    "creep_score": "581",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26867,7 +26766,7 @@ stats = {
    "assists": "4",
    "creep_score": "102",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26882,7 +26781,7 @@ stats = {
    "assists": "4",
    "creep_score": "148",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26897,7 +26796,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26912,7 +26811,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26927,7 +26826,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26942,22 +26841,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W9"
-  },
-  {
-   "name": "AudreyLaSapa",
-   "team": "Unicorns of Love",
-   "position": "Support",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -26972,22 +26856,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
-   "week": "W9"
-  },
-  {
-   "name": "Benji",
-   "team": "Golden Guardians",
-   "position": "AD Carry",
-   "total_points": "0.00",
-   "average_points": "0.00",
-   "games_played": "0",
-   "kills": "0",
-   "deaths": "0",
-   "assists": "0",
-   "creep_score": "0",
-   "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27002,7 +26871,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27017,7 +26886,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27032,7 +26901,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27047,7 +26916,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27062,7 +26931,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27077,7 +26946,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27092,7 +26961,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27107,7 +26976,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27122,7 +26991,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27137,7 +27006,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27152,7 +27021,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27167,7 +27036,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27182,7 +27051,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27197,7 +27066,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27212,7 +27081,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27227,7 +27096,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27242,7 +27111,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27257,7 +27126,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27272,7 +27141,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27287,7 +27156,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27302,7 +27171,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27317,7 +27186,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27332,7 +27201,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27347,7 +27216,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27362,7 +27231,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27377,7 +27246,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27392,7 +27261,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27407,7 +27276,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27422,7 +27291,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27437,7 +27306,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27452,7 +27321,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27467,7 +27336,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27482,7 +27351,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27497,7 +27366,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27512,7 +27381,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27527,7 +27396,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27542,7 +27411,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27557,7 +27426,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27572,7 +27441,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27587,7 +27456,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27602,7 +27471,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27617,7 +27486,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27632,7 +27501,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27647,7 +27516,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27662,7 +27531,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27677,7 +27546,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27692,7 +27561,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27707,7 +27576,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27722,7 +27591,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27737,7 +27606,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27752,7 +27621,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27767,7 +27636,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27782,7 +27651,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27797,7 +27666,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27812,7 +27681,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27827,7 +27696,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27842,7 +27711,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27857,7 +27726,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27872,7 +27741,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27887,7 +27756,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27902,7 +27771,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27917,7 +27786,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27932,7 +27801,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27947,7 +27816,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27962,7 +27831,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27977,7 +27846,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -27992,7 +27861,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -28007,7 +27876,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -28022,7 +27891,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -28037,7 +27906,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -28052,7 +27921,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   },
   {
@@ -28067,7 +27936,7 @@ stats = {
    "assists": "0",
    "creep_score": "0",
    "kill_assist_bonus": "0",
-   "gold_bonus": "0 / 0 / 0",
+   "multi_kill": "0 / 0 / 0",
    "week": "W9"
   }
  ]
@@ -28086,8 +27955,10 @@ stats[:split_stats].each do |stat|
     assists: stat[:assists],
     creep_score: stat[:creep_score],
     kill_assist_bonus: stat[:kill_assist_bonus],
-    gold_bonus: stat[:gold_bonus],
+    multi_kill: stat[:multi_kill],
     week: stat[:week],
     player_id: Player.find_by(ign: stat[:name]).id
   )
 end
+
+Player.all.each {|player| Player.delete(player.id) if player.img_url == "null"}

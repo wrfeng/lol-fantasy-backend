@@ -12,7 +12,7 @@ class CreateStatsTable < ActiveRecord::Migration[5.2]
       t.integer :assists
       t.integer :creep_score
       t.integer :kill_assist_bonus
-      t.string :gold_bonus
+      t.string :multi_kill
       t.string :week
       t.integer :player_id
 
