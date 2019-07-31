@@ -24,7 +24,7 @@ players = {
   {
    "ign": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/3501/220px-VIT_Attila_2019_Split_2.png"
   },
   {
@@ -36,7 +36,7 @@ players = {
   {
    "ign": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/1392/themassacre8-drykagmb.png"
   },
   {
@@ -54,7 +54,7 @@ players = {
   {
    "ign": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/871/220px-MSF_Hans_Sama_2019_Split_2.png"
   },
   {
@@ -84,7 +84,7 @@ players = {
   {
    "ign": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/2145/doublelift-1qon6pt3.png"
   },
   {
@@ -96,19 +96,19 @@ players = {
   {
    "ign": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/44/220px-FLY_WildTurtle_2019_Split_2.png"
   },
   {
    "ign": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/1168/220px-S04_Upset_2019_Split_2.png"
   },
   {
    "ign": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/304/220px-SPY_Kobbe_2019_Split_2.png"
   },
   {
@@ -126,7 +126,7 @@ players = {
   {
    "ign": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/72/220px-XL_Hjarnan_2019_Split_2.png"
   },
   {
@@ -138,7 +138,7 @@ players = {
   {
    "ign": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/299/220px-RGE_HeaQ_2019_Split_1.png"
   },
   {
@@ -150,7 +150,7 @@ players = {
   {
    "ign": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/680/220px-TSM_Zven_2019_Split_2.png"
   },
   {
@@ -174,7 +174,7 @@ players = {
   {
    "ign": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/229/220px-CLG_Stixxay_2019_Split_2.png"
   },
   {
@@ -234,7 +234,7 @@ players = {
   {
    "ign": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/1167/220px-GGS_Deftly_2019_Split_2.png"
   },
   {
@@ -294,7 +294,7 @@ players = {
   {
    "ign": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/207/220px-VIT_Steeelback_2017_Spring.png"
   },
   {
@@ -312,7 +312,7 @@ players = {
   {
    "ign": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/45/220px-FOX_Apollo_2019_Split_2.png"
   },
   {
@@ -354,7 +354,7 @@ players = {
   {
    "ign": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/332/220px-OPT_Arrow_2019_Split_2.png"
   },
   {
@@ -408,7 +408,7 @@ players = {
   {
    "ign": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/18/220px-C9_Sneaky_2019_Split_2.png"
   },
   {
@@ -540,7 +540,7 @@ players = {
   {
    "ign": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/19/altec-4h8r6d9e.png"
   },
   {
@@ -552,7 +552,7 @@ players = {
   {
    "ign": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/377/220px-OG_Patrik_2019_Split_2.png"
   },
   {
@@ -582,7 +582,7 @@ players = {
   {
    "ign": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/1118/220px-FOX_Lost_2019_Split_2.png"
   },
   {
@@ -612,7 +612,7 @@ players = {
   {
    "ign": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/672/220px-MADL_Samux_2019_Split_2.png"
   },
   {
@@ -642,7 +642,7 @@ players = {
   {
    "ign": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/3515/neon-16o8ewbp.png"
   },
   {
@@ -660,7 +660,7 @@ players = {
   {
    "ign": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/2146/220px-FNC_Rekkles_2019_Split_2.png"
   },
   {
@@ -684,7 +684,7 @@ players = {
   {
    "ign": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/2156/keith-gmei2hih.png"
   },
   {
@@ -702,7 +702,7 @@ players = {
   {
    "ign": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/22/piglet-4smmppa.png"
   },
   {
@@ -750,7 +750,7 @@ players = {
   {
    "ign": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/9002/auto-h2h9tyl8.png"
   },
   {
@@ -768,7 +768,7 @@ players = {
   {
    "ign": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "null"
   },
   {
@@ -786,13 +786,13 @@ players = {
   {
    "ign": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "null"
   },
   {
    "ign": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "null"
   },
   {
@@ -804,7 +804,7 @@ players = {
   {
    "ign": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "null"
   },
   {
@@ -900,7 +900,7 @@ players = {
   {
    "ign": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "null"
   },
   {
@@ -972,7 +972,7 @@ players = {
   {
    "ign": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "https://cdn.pandascore.co/images/player/image/1226/rikara-ivlzvfap.png"
   },
   {
@@ -1008,7 +1008,7 @@ players = {
   {
    "ign": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "img_url": "null"
   },
   {
@@ -1122,7 +1122,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "339.21",
    "average_points": "18.85",
    "games_played": "18",
@@ -1152,7 +1152,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "331.14",
    "average_points": "18.40",
    "games_played": "18",
@@ -1197,7 +1197,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "315.44",
    "average_points": "17.52",
    "games_played": "18",
@@ -1272,7 +1272,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "298.00",
    "average_points": "16.56",
    "games_played": "18",
@@ -1302,7 +1302,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "295.16",
    "average_points": "16.40",
    "games_played": "18",
@@ -1317,7 +1317,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "295.15",
    "average_points": "16.40",
    "games_played": "18",
@@ -1332,7 +1332,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "295.14",
    "average_points": "16.40",
    "games_played": "18",
@@ -1377,7 +1377,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "287.13",
    "average_points": "15.95",
    "games_played": "18",
@@ -1407,7 +1407,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "286.61",
    "average_points": "15.92",
    "games_played": "18",
@@ -1437,7 +1437,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "284.81",
    "average_points": "15.82",
    "games_played": "18",
@@ -1497,7 +1497,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "277.31",
    "average_points": "15.41",
    "games_played": "18",
@@ -1647,7 +1647,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "265.43",
    "average_points": "14.75",
    "games_played": "18",
@@ -1797,7 +1797,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "245.05",
    "average_points": "13.61",
    "games_played": "18",
@@ -1842,7 +1842,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "239.44",
    "average_points": "14.97",
    "games_played": "16",
@@ -1947,7 +1947,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "226.91",
    "average_points": "12.61",
    "games_played": "18",
@@ -2082,7 +2082,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "213.96",
    "average_points": "17.83",
    "games_played": "12",
@@ -2412,7 +2412,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "156.08",
    "average_points": "15.61",
    "games_played": "10",
@@ -2442,7 +2442,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "151.93",
    "average_points": "8.94",
    "games_played": "17",
@@ -2517,7 +2517,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "139.08",
    "average_points": "17.39",
    "games_played": "8",
@@ -2592,7 +2592,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "112.04",
    "average_points": "11.20",
    "games_played": "10",
@@ -2667,7 +2667,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "95.39",
    "average_points": "11.92",
    "games_played": "8",
@@ -2712,7 +2712,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "78.46",
    "average_points": "15.69",
    "games_played": "5",
@@ -2772,7 +2772,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "39.04",
    "average_points": "9.76",
    "games_played": "4",
@@ -2817,7 +2817,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.54",
    "average_points": "10.77",
    "games_played": "2",
@@ -2937,7 +2937,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -2982,7 +2982,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -3027,7 +3027,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -3042,7 +3042,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -3072,7 +3072,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -3312,7 +3312,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -3492,7 +3492,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -3582,7 +3582,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -3777,7 +3777,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "65.69",
    "average_points": "32.85",
    "games_played": "2",
@@ -3837,7 +3837,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "47.94",
    "average_points": "23.97",
    "games_played": "2",
@@ -3972,7 +3972,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "39.28",
    "average_points": "19.64",
    "games_played": "2",
@@ -4002,7 +4002,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "38.54",
    "average_points": "19.27",
    "games_played": "2",
@@ -4062,7 +4062,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "37.32",
    "average_points": "18.66",
    "games_played": "2",
@@ -4092,7 +4092,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.88",
    "average_points": "17.44",
    "games_played": "2",
@@ -4122,7 +4122,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.15",
    "average_points": "17.08",
    "games_played": "2",
@@ -4137,7 +4137,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "33.83",
    "average_points": "16.92",
    "games_played": "2",
@@ -4167,7 +4167,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "32.80",
    "average_points": "16.40",
    "games_played": "2",
@@ -4512,7 +4512,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "23.56",
    "average_points": "11.78",
    "games_played": "2",
@@ -4557,7 +4557,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "22.88",
    "average_points": "11.44",
    "games_played": "2",
@@ -4602,7 +4602,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.98",
    "average_points": "10.99",
    "games_played": "2",
@@ -4617,7 +4617,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.90",
    "average_points": "10.95",
    "games_played": "2",
@@ -4632,7 +4632,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.77",
    "average_points": "10.89",
    "games_played": "2",
@@ -4782,7 +4782,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "18.73",
    "average_points": "9.37",
    "games_played": "2",
@@ -4857,7 +4857,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "16.24",
    "average_points": "8.12",
    "games_played": "2",
@@ -4902,7 +4902,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "15.07",
    "average_points": "7.54",
    "games_played": "2",
@@ -5037,7 +5037,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "11.76",
    "average_points": "5.88",
    "games_played": "2",
@@ -5067,7 +5067,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "11.69",
    "average_points": "5.85",
    "games_played": "2",
@@ -5187,7 +5187,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "8.69",
    "average_points": "4.35",
    "games_played": "2",
@@ -5337,7 +5337,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -5427,7 +5427,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -5487,7 +5487,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -5502,7 +5502,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -5532,7 +5532,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -5832,7 +5832,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -5907,7 +5907,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -5922,7 +5922,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -6057,7 +6057,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -6117,7 +6117,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -6207,7 +6207,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -6237,7 +6237,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -6522,7 +6522,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "56.07",
    "average_points": "28.04",
    "games_played": "2",
@@ -6552,7 +6552,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "52.82",
    "average_points": "26.41",
    "games_played": "2",
@@ -6642,7 +6642,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "48.21",
    "average_points": "24.11",
    "games_played": "2",
@@ -6747,7 +6747,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "44.45",
    "average_points": "22.23",
    "games_played": "2",
@@ -6837,7 +6837,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "42.26",
    "average_points": "21.13",
    "games_played": "2",
@@ -6867,7 +6867,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "40.68",
    "average_points": "20.34",
    "games_played": "2",
@@ -6897,7 +6897,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "40.16",
    "average_points": "20.08",
    "games_played": "2",
@@ -7047,7 +7047,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "33.62",
    "average_points": "16.81",
    "games_played": "2",
@@ -7077,7 +7077,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "31.51",
    "average_points": "15.76",
    "games_played": "2",
@@ -7137,7 +7137,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "30.84",
    "average_points": "15.42",
    "games_played": "2",
@@ -7242,7 +7242,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "24.71",
    "average_points": "12.36",
    "games_played": "2",
@@ -7317,7 +7317,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "23.24",
    "average_points": "11.62",
    "games_played": "2",
@@ -7437,7 +7437,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "20.83",
    "average_points": "10.42",
    "games_played": "2",
@@ -7572,7 +7572,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "19.05",
    "average_points": "9.53",
    "games_played": "2",
@@ -7602,7 +7602,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "18.44",
    "average_points": "9.22",
    "games_played": "2",
@@ -7632,7 +7632,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "17.12",
    "average_points": "8.56",
    "games_played": "2",
@@ -7647,7 +7647,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "16.16",
    "average_points": "8.08",
    "games_played": "2",
@@ -7752,7 +7752,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "12.26",
    "average_points": "6.13",
    "games_played": "2",
@@ -7857,7 +7857,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "8.57",
    "average_points": "4.29",
    "games_played": "2",
@@ -8007,7 +8007,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8097,7 +8097,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8157,7 +8157,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8187,7 +8187,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8217,7 +8217,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8502,7 +8502,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8577,7 +8577,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8592,7 +8592,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8727,7 +8727,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8787,7 +8787,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8802,7 +8802,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8892,7 +8892,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -8922,7 +8922,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -9162,7 +9162,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "52.28",
    "average_points": "26.14",
    "games_played": "2",
@@ -9192,7 +9192,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "51.77",
    "average_points": "25.89",
    "games_played": "2",
@@ -9207,7 +9207,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "51.67",
    "average_points": "25.84",
    "games_played": "2",
@@ -9237,7 +9237,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "49.48",
    "average_points": "24.74",
    "games_played": "2",
@@ -9297,7 +9297,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "47.33",
    "average_points": "23.67",
    "games_played": "2",
@@ -9312,7 +9312,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "46.87",
    "average_points": "23.44",
    "games_played": "2",
@@ -9357,7 +9357,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "45.23",
    "average_points": "22.62",
    "games_played": "2",
@@ -9372,7 +9372,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "44.39",
    "average_points": "22.20",
    "games_played": "2",
@@ -9507,7 +9507,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "40.47",
    "average_points": "20.24",
    "games_played": "2",
@@ -9612,7 +9612,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "38.52",
    "average_points": "19.26",
    "games_played": "2",
@@ -9702,7 +9702,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.94",
    "average_points": "17.47",
    "games_played": "2",
@@ -10077,7 +10077,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "23.16",
    "average_points": "11.58",
    "games_played": "2",
@@ -10122,7 +10122,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "19.78",
    "average_points": "9.89",
    "games_played": "2",
@@ -10152,7 +10152,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "18.98",
    "average_points": "9.49",
    "games_played": "2",
@@ -10257,7 +10257,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "14.24",
    "average_points": "7.12",
    "games_played": "2",
@@ -10407,7 +10407,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "8.18",
    "average_points": "4.09",
    "games_played": "2",
@@ -10422,7 +10422,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "7.04",
    "average_points": "3.52",
    "games_played": "2",
@@ -10437,7 +10437,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "6.64",
    "average_points": "3.32",
    "games_played": "2",
@@ -10707,7 +10707,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -10797,7 +10797,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -10857,7 +10857,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -10887,7 +10887,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -10917,7 +10917,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11082,7 +11082,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11187,7 +11187,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11262,7 +11262,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11277,7 +11277,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11412,7 +11412,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11472,7 +11472,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11487,7 +11487,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11577,7 +11577,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11592,7 +11592,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -11847,7 +11847,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "67.47",
    "average_points": "33.74",
    "games_played": "2",
@@ -11862,7 +11862,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "59.83",
    "average_points": "29.92",
    "games_played": "2",
@@ -11982,7 +11982,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "48.35",
    "average_points": "24.18",
    "games_played": "2",
@@ -12012,7 +12012,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "47.05",
    "average_points": "23.53",
    "games_played": "2",
@@ -12072,7 +12072,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "43.21",
    "average_points": "21.61",
    "games_played": "2",
@@ -12207,7 +12207,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "37.49",
    "average_points": "18.75",
    "games_played": "2",
@@ -12282,7 +12282,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.99",
    "average_points": "17.50",
    "games_played": "2",
@@ -12312,7 +12312,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.68",
    "average_points": "17.34",
    "games_played": "2",
@@ -12357,7 +12357,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.35",
    "average_points": "17.18",
    "games_played": "2",
@@ -12477,7 +12477,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "31.60",
    "average_points": "15.80",
    "games_played": "2",
@@ -12537,7 +12537,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "30.50",
    "average_points": "15.25",
    "games_played": "2",
@@ -12567,7 +12567,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "29.38",
    "average_points": "14.69",
    "games_played": "2",
@@ -12612,7 +12612,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "28.55",
    "average_points": "14.28",
    "games_played": "2",
@@ -12672,7 +12672,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "27.98",
    "average_points": "13.99",
    "games_played": "2",
@@ -12837,7 +12837,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "22.82",
    "average_points": "11.41",
    "games_played": "2",
@@ -13017,7 +13017,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "19.35",
    "average_points": "9.68",
    "games_played": "2",
@@ -13047,7 +13047,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "18.98",
    "average_points": "9.49",
    "games_played": "2",
@@ -13092,7 +13092,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "17.89",
    "average_points": "8.95",
    "games_played": "2",
@@ -13167,7 +13167,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "15.91",
    "average_points": "7.96",
    "games_played": "2",
@@ -13377,7 +13377,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -13467,7 +13467,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -13512,7 +13512,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -13527,7 +13527,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -13557,7 +13557,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -13767,7 +13767,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -13872,7 +13872,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -13962,7 +13962,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -14097,7 +14097,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -14157,7 +14157,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -14172,7 +14172,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -14202,7 +14202,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -14277,7 +14277,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -14532,7 +14532,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "56.89",
    "average_points": "28.45",
    "games_played": "2",
@@ -14562,7 +14562,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "53.43",
    "average_points": "26.72",
    "games_played": "2",
@@ -14577,7 +14577,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "51.61",
    "average_points": "25.81",
    "games_played": "2",
@@ -14682,7 +14682,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "39.02",
    "average_points": "19.51",
    "games_played": "2",
@@ -14847,7 +14847,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "33.59",
    "average_points": "16.80",
    "games_played": "2",
@@ -14862,7 +14862,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "33.04",
    "average_points": "16.52",
    "games_played": "2",
@@ -14922,7 +14922,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "32.24",
    "average_points": "16.12",
    "games_played": "2",
@@ -15042,7 +15042,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "29.55",
    "average_points": "14.78",
    "games_played": "2",
@@ -15087,7 +15087,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "29.40",
    "average_points": "14.70",
    "games_played": "2",
@@ -15177,7 +15177,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "28.10",
    "average_points": "14.05",
    "games_played": "2",
@@ -15207,7 +15207,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "26.78",
    "average_points": "13.39",
    "games_played": "2",
@@ -15252,7 +15252,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "26.43",
    "average_points": "13.22",
    "games_played": "2",
@@ -15267,7 +15267,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "26.24",
    "average_points": "13.12",
    "games_played": "2",
@@ -15507,7 +15507,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.71",
    "average_points": "10.86",
    "games_played": "2",
@@ -15672,7 +15672,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "18.98",
    "average_points": "9.49",
    "games_played": "2",
@@ -15732,7 +15732,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "17.28",
    "average_points": "8.64",
    "games_played": "2",
@@ -15822,7 +15822,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "14.69",
    "average_points": "7.35",
    "games_played": "2",
@@ -15867,7 +15867,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "14.41",
    "average_points": "7.21",
    "games_played": "2",
@@ -15927,7 +15927,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "10.42",
    "average_points": "5.21",
    "games_played": "2",
@@ -16062,7 +16062,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16137,7 +16137,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16182,7 +16182,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16197,7 +16197,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16227,7 +16227,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16437,7 +16437,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16542,7 +16542,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16632,7 +16632,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16767,7 +16767,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16827,7 +16827,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16842,7 +16842,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16872,7 +16872,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -16947,7 +16947,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -17247,7 +17247,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "52.19",
    "average_points": "26.10",
    "games_played": "2",
@@ -17262,7 +17262,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "50.51",
    "average_points": "25.26",
    "games_played": "2",
@@ -17307,7 +17307,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "43.63",
    "average_points": "21.82",
    "games_played": "2",
@@ -17442,7 +17442,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "37.51",
    "average_points": "18.76",
    "games_played": "2",
@@ -17532,7 +17532,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "35.40",
    "average_points": "17.70",
    "games_played": "2",
@@ -17547,7 +17547,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.56",
    "average_points": "17.28",
    "games_played": "2",
@@ -17577,7 +17577,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "32.65",
    "average_points": "16.33",
    "games_played": "2",
@@ -17652,7 +17652,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "29.63",
    "average_points": "14.82",
    "games_played": "2",
@@ -17787,7 +17787,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "27.08",
    "average_points": "13.54",
    "games_played": "2",
@@ -17907,7 +17907,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "24.11",
    "average_points": "12.06",
    "games_played": "2",
@@ -17922,7 +17922,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "23.74",
    "average_points": "11.87",
    "games_played": "2",
@@ -18072,7 +18072,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.66",
    "average_points": "10.83",
    "games_played": "2",
@@ -18087,7 +18087,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.54",
    "average_points": "10.77",
    "games_played": "2",
@@ -18102,7 +18102,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.49",
    "average_points": "10.75",
    "games_played": "2",
@@ -18132,7 +18132,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.05",
    "average_points": "10.53",
    "games_played": "2",
@@ -18162,7 +18162,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "20.70",
    "average_points": "10.35",
    "games_played": "2",
@@ -18297,7 +18297,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "18.26",
    "average_points": "9.13",
    "games_played": "2",
@@ -18327,7 +18327,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "17.43",
    "average_points": "8.72",
    "games_played": "2",
@@ -18477,7 +18477,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "15.05",
    "average_points": "7.53",
    "games_played": "2",
@@ -18747,7 +18747,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -18762,7 +18762,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -18777,7 +18777,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -18837,7 +18837,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -18882,7 +18882,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -18897,7 +18897,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -18927,7 +18927,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -19182,7 +19182,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -19347,7 +19347,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -19527,7 +19527,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -19542,7 +19542,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -19572,7 +19572,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -19662,7 +19662,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -19932,7 +19932,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "56.17",
    "average_points": "28.09",
    "games_played": "2",
@@ -19947,7 +19947,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "52.20",
    "average_points": "26.10",
    "games_played": "2",
@@ -19992,7 +19992,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "42.32",
    "average_points": "21.16",
    "games_played": "2",
@@ -20052,7 +20052,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "38.66",
    "average_points": "19.33",
    "games_played": "2",
@@ -20187,7 +20187,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.01",
    "average_points": "17.01",
    "games_played": "2",
@@ -20292,7 +20292,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "33.18",
    "average_points": "16.59",
    "games_played": "2",
@@ -20322,7 +20322,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "31.77",
    "average_points": "15.89",
    "games_played": "2",
@@ -20337,7 +20337,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "31.28",
    "average_points": "15.64",
    "games_played": "2",
@@ -20412,7 +20412,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "29.71",
    "average_points": "14.86",
    "games_played": "2",
@@ -20472,7 +20472,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "28.93",
    "average_points": "14.47",
    "games_played": "2",
@@ -20487,7 +20487,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "28.73",
    "average_points": "14.37",
    "games_played": "2",
@@ -20577,7 +20577,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "26.65",
    "average_points": "13.33",
    "games_played": "2",
@@ -20652,7 +20652,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "24.86",
    "average_points": "12.43",
    "games_played": "2",
@@ -20817,7 +20817,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "22.58",
    "average_points": "11.29",
    "games_played": "2",
@@ -20832,7 +20832,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "21.35",
    "average_points": "10.68",
    "games_played": "2",
@@ -20952,7 +20952,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "19.54",
    "average_points": "9.77",
    "games_played": "2",
@@ -21057,7 +21057,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "16.84",
    "average_points": "8.42",
    "games_played": "2",
@@ -21087,7 +21087,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "16.05",
    "average_points": "8.03",
    "games_played": "2",
@@ -21237,7 +21237,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "11.85",
    "average_points": "5.93",
    "games_played": "2",
@@ -21417,7 +21417,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -21432,7 +21432,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -21492,7 +21492,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -21537,7 +21537,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -21552,7 +21552,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -21582,7 +21582,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -21822,7 +21822,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -21987,7 +21987,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -22122,7 +22122,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -22182,7 +22182,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -22197,7 +22197,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -22227,7 +22227,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -22332,7 +22332,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -22617,7 +22617,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "53.12",
    "average_points": "26.56",
    "games_played": "2",
@@ -22647,7 +22647,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "52.75",
    "average_points": "26.38",
    "games_played": "2",
@@ -22692,7 +22692,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "47.93",
    "average_points": "23.97",
    "games_played": "2",
@@ -22722,7 +22722,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "46.16",
    "average_points": "23.08",
    "games_played": "2",
@@ -22737,7 +22737,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "46.11",
    "average_points": "23.06",
    "games_played": "2",
@@ -22812,7 +22812,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "42.89",
    "average_points": "21.45",
    "games_played": "2",
@@ -23037,7 +23037,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "35.14",
    "average_points": "17.57",
    "games_played": "2",
@@ -23067,7 +23067,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "33.58",
    "average_points": "16.79",
    "games_played": "2",
@@ -23097,7 +23097,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "31.81",
    "average_points": "15.91",
    "games_played": "2",
@@ -23127,7 +23127,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "31.65",
    "average_points": "15.83",
    "games_played": "2",
@@ -23172,7 +23172,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "28.77",
    "average_points": "14.39",
    "games_played": "2",
@@ -23277,7 +23277,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "26.56",
    "average_points": "26.56",
    "games_played": "1",
@@ -23457,7 +23457,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "23.66",
    "average_points": "11.83",
    "games_played": "2",
@@ -23502,7 +23502,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "22.40",
    "average_points": "11.20",
    "games_played": "2",
@@ -23637,7 +23637,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "20.23",
    "average_points": "10.12",
    "games_played": "2",
@@ -23817,7 +23817,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "15.88",
    "average_points": "7.94",
    "games_played": "2",
@@ -23832,7 +23832,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "15.68",
    "average_points": "7.84",
    "games_played": "2",
@@ -23847,7 +23847,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "15.20",
    "average_points": "15.20",
    "games_played": "1",
@@ -23862,7 +23862,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "14.45",
    "average_points": "7.23",
    "games_played": "2",
@@ -23877,7 +23877,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "13.80",
    "average_points": "6.90",
    "games_played": "2",
@@ -24177,7 +24177,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24192,7 +24192,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24252,7 +24252,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24297,7 +24297,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24312,7 +24312,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24342,7 +24342,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24552,7 +24552,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24732,7 +24732,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24747,7 +24747,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24882,7 +24882,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -24942,7 +24942,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -25032,7 +25032,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -25272,7 +25272,7 @@ stats = {
   {
    "name": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "57.83",
    "average_points": "28.92",
    "games_played": "2",
@@ -25407,7 +25407,7 @@ stats = {
   {
    "name": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "41.61",
    "average_points": "20.81",
    "games_played": "2",
@@ -25422,7 +25422,7 @@ stats = {
   {
    "name": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "41.13",
    "average_points": "20.57",
    "games_played": "2",
@@ -25437,7 +25437,7 @@ stats = {
   {
    "name": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "41.10",
    "average_points": "20.55",
    "games_played": "2",
@@ -25452,7 +25452,7 @@ stats = {
   {
    "name": "Zven",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "41.03",
    "average_points": "20.52",
    "games_played": "2",
@@ -25482,7 +25482,7 @@ stats = {
   {
    "name": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "40.14",
    "average_points": "20.07",
    "games_played": "2",
@@ -25557,7 +25557,7 @@ stats = {
   {
    "name": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "38.17",
    "average_points": "19.09",
    "games_played": "2",
@@ -25587,7 +25587,7 @@ stats = {
   {
    "name": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "36.65",
    "average_points": "18.33",
    "games_played": "2",
@@ -25602,7 +25602,7 @@ stats = {
   {
    "name": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "36.10",
    "average_points": "18.05",
    "games_played": "2",
@@ -25647,7 +25647,7 @@ stats = {
   {
    "name": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "35.42",
    "average_points": "17.71",
    "games_played": "2",
@@ -25707,7 +25707,7 @@ stats = {
   {
    "name": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "34.38",
    "average_points": "17.19",
    "games_played": "2",
@@ -25752,7 +25752,7 @@ stats = {
   {
    "name": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "33.23",
    "average_points": "16.62",
    "games_played": "2",
@@ -26022,7 +26022,7 @@ stats = {
   {
    "name": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "24.89",
    "average_points": "12.45",
    "games_played": "2",
@@ -26052,7 +26052,7 @@ stats = {
   {
    "name": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "24.53",
    "average_points": "12.27",
    "games_played": "2",
@@ -26187,7 +26187,7 @@ stats = {
   {
    "name": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "20.91",
    "average_points": "10.46",
    "games_played": "2",
@@ -26472,7 +26472,7 @@ stats = {
   {
    "name": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "13.89",
    "average_points": "6.95",
    "games_played": "2",
@@ -26487,7 +26487,7 @@ stats = {
   {
    "name": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "13.75",
    "average_points": "6.88",
    "games_played": "2",
@@ -26622,7 +26622,7 @@ stats = {
   {
    "name": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "11.97",
    "average_points": "5.99",
    "games_played": "2",
@@ -26712,7 +26712,7 @@ stats = {
   {
    "name": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "8.91",
    "average_points": "4.46",
    "games_played": "2",
@@ -26742,7 +26742,7 @@ stats = {
   {
    "name": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "6.31",
    "average_points": "3.16",
    "games_played": "2",
@@ -26832,7 +26832,7 @@ stats = {
   {
    "name": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -26847,7 +26847,7 @@ stats = {
   {
    "name": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -26892,7 +26892,7 @@ stats = {
   {
    "name": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -26937,7 +26937,7 @@ stats = {
   {
    "name": "Deadly",
    "team": "Giants",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -26952,7 +26952,7 @@ stats = {
   {
    "name": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -26982,7 +26982,7 @@ stats = {
   {
    "name": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -27207,7 +27207,7 @@ stats = {
   {
    "name": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -27387,7 +27387,7 @@ stats = {
   {
    "name": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -27402,7 +27402,7 @@ stats = {
   {
    "name": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -27537,7 +27537,7 @@ stats = {
   {
    "name": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -27612,7 +27612,7 @@ stats = {
   {
    "name": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",
@@ -27717,7 +27717,7 @@ stats = {
   {
    "name": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry",
+   "position": "ADC",
    "total_points": "0.00",
    "average_points": "0.00",
    "games_played": "0",

@@ -13,7 +13,7 @@
   {
    "ign": "Attila",
    "team": "Team Vitality",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Broxah",
@@ -23,7 +23,7 @@
   {
    "ign": "Cody Sun",
    "team": "100 Thieves",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Perkz",
@@ -38,7 +38,7 @@
   {
    "ign": "Hans Sama",
    "team": "Misfits Gaming",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Bwipo",
@@ -63,7 +63,7 @@
   {
    "ign": "Doublelift",
    "team": "Team Liquid",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Maxlore",
@@ -73,17 +73,17 @@
   {
    "ign": "WildTurtle",
    "team": "FlyQuest",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Upset",
    "team": "FC Schalke 04",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Kobbe",
    "team": "Splyce",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Nisqy",
@@ -98,7 +98,7 @@
   {
    "ign": "Hjarnan",
    "team": "G2 Esports",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Licorice",
@@ -108,7 +108,7 @@
   {
    "ign": "HeaQ",
    "team": "ROCCAT",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Jactroll",
@@ -118,7 +118,7 @@
   {
    "ign": "Zven",
    "team": "TSM",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Jankos",
@@ -138,7 +138,7 @@
   {
    "ign": "Stixxay",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Huhi",
@@ -188,7 +188,7 @@
   {
    "ign": "Deftly",
    "team": "Golden Guardians",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Impact",
@@ -238,7 +238,7 @@
   {
    "ign": "Steeelback",
    "team": "Giants",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Hauntzer",
@@ -253,7 +253,7 @@
   {
    "ign": "Apollo",
    "team": "Clutch Gaming",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Aphromoo",
@@ -288,7 +288,7 @@
   {
    "ign": "Arrow",
    "team": "OpTic Gaming",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Xmithie",
@@ -333,7 +333,7 @@
   {
    "ign": "Sneaky",
    "team": "Cloud9",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Reignover",
@@ -443,7 +443,7 @@
   {
    "ign": "Altec",
    "team": "Echo Fox",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Dhokla",
@@ -453,7 +453,7 @@
   {
    "ign": "Sheriff",
    "team": "H2K",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Totoro",
@@ -478,7 +478,7 @@
   {
    "ign": "Lost",
    "team": "Echo Fox",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Smoothie",
@@ -503,7 +503,7 @@
   {
    "ign": "Samux",
    "team": "Unicorns of Love",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Fenix",
@@ -528,7 +528,7 @@
   {
    "ign": "Neon",
    "team": "Unicorns of Love",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Feng",
@@ -543,7 +543,7 @@
   {
    "ign": "Rekkles",
    "team": "Fnatic",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Meteos",
@@ -563,7 +563,7 @@
   {
    "ign": "Keith",
    "team": "Cloud9",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Adrian",
@@ -578,7 +578,7 @@
   {
    "ign": "Piglet",
    "team": "Clutch Gaming",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Moon",
@@ -623,12 +623,12 @@
   {
    "ign": "Auto",
    "team": "Counter Logic Gaming",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Benji",
    "team": "Golden Guardians",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Boris",
@@ -643,7 +643,7 @@
   {
    "ign": "Cake",
    "team": "Echo Fox",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Candyfloss",
@@ -658,12 +658,12 @@
   {
    "ign": "Deadly",
    "team": "Giants",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Eclipse",
    "team": "OpTic Gaming",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "EdinPriqtel",
@@ -673,7 +673,7 @@
   {
    "ign": "Erry",
    "team": "FlyQuest",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Expect",
@@ -753,7 +753,7 @@
   {
    "ign": "MrRalleZ",
    "team": "TSM",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Ngo",
@@ -813,7 +813,7 @@
   {
    "ign": "Rikara",
    "team": "100 Thieves",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Sacre",
@@ -843,7 +843,7 @@
   {
    "ign": "Shoryu",
    "team": "Team Liquid",
-   "position": "AD Carry"
+   "position": "ADC"
   },
   {
    "ign": "Special",
