@@ -4,8 +4,8 @@ class CreateStatsTable < ActiveRecord::Migration[5.2]
       t.string :ign 
       t.string :team
       t.string :position
-      t.float :total_points
-      t.float :average_points
+      t.decimal :total_points
+      t.decimal :average_points
       t.integer :games_played
       t.integer :kills
       t.integer :deaths
