@@ -259,7 +259,7 @@ players = {
    "ign": "Mickey",
    "team": "Golden Guardians",
    "position": "Mid",
-   "img_url": "https://cdn.pandascore.co/images/player/image/309/APK_Mickey_2019_Split_1.jpg"
+   "img_url": "https://gamepedia.cursecdn.com/lolesports_gamepedia_en/e/ec/XL_Mickey_2019_Split_2.png?version=412255b0bfeb1471a1f95ceb167d3e4e"
   },
   {
    "ign": "Profit",
@@ -1085,7 +1085,7 @@ players = {
   }
  ]
 }
-players[:players].each {|player| Player.create(ign: player[:ign], team: player[:team], position: player[:position], img_url: player[:img_url])}
+players[:players].shuffle!.each {|player| Player.create(ign: player[:ign], team: player[:team], position: player[:position], img_url: player[:img_url])}
 
 stats = {
  "split_stats": [
